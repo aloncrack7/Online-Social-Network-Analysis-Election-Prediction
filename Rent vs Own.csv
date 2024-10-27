@@ -1,0 +1,90 @@
+ID Occupied By,Occupied By,ID Year,Year,Household Ownership,Household Ownership Moe,Geography,ID Geography,Slug Geography,share
+0,"Owner Occupied",2022,"2022",81497760,345906,"United States","01000US","united-states",0.6481638607730256
+0,"Owner Occupied",2022,"2022",7407361,35557,"California","04000US06","california",0.5562826688431252
+0,"Owner Occupied",2022,"2022",144167,2128,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.45579052864202135
+0,"Owner Occupied",2022,"2022",93585,2033,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.3826371029401543
+0,"Owner Occupied",2022,"2022",161758,2560,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.6056355957587013
+0,"Owner Occupied",2022,"2022",145562,2430,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.4867073476552704
+0,"Owner Occupied",2022,"2022",143797,2261,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.522915295409668
+0,"Owner Occupied",2022,"2022",113621,2443,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5007006751158979
+0,"Owner Occupied",2021,"2021",80152161,337611,"United States","01000US","united-states",0.646331101036592
+0,"Owner Occupied",2021,"2021",7335247,36253,"California","04000US06","california",0.5549611706706504
+0,"Owner Occupied",2021,"2021",191985,2025.9999999999998,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6855823620157696
+0,"Owner Occupied",2021,"2021",174770,2591,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7384855911434125
+0,"Owner Occupied",2021,"2021",153727,2627,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.6025249080889558
+0,"Owner Occupied",2021,"2021",161419,2470,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6457018280731229
+0,"Owner Occupied",2021,"2021",91646,2250,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.45108925706072867
+0,"Owner Occupied",2021,"2021",156526,2111,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5393970095145544
+0,"Owner Occupied",2021,"2021",141264,2462,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.5063262102237293
+0,"Owner Occupied",2020,"2020",78801376,342600,"United States","01000US","united-states",0.64404298146842
+0,"Owner Occupied",2020,"2020",7241318,35711,"California","04000US06","california",0.5526409981627268
+0,"Owner Occupied",2020,"2020",191710,2702,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6832681108283615
+0,"Owner Occupied",2020,"2020",169505,2661,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7300994542721403
+0,"Owner Occupied",2020,"2020",153489,2088,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.6024610432939514
+0,"Owner Occupied",2020,"2020",156017,2552,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.641606968079419
+0,"Owner Occupied",2020,"2020",91651,1752,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.45168301217288453
+0,"Owner Occupied",2020,"2020",157781,2044.0000000000002,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5395162917294981
+0,"Owner Occupied",2020,"2020",138435,2509,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.5037132180373978
+0,"Owner Occupied",2019,"2019",77274381,377633,"United States","01000US","united-states",0.6399214141224628
+0,"Owner Occupied",2019,"2019",7154580,37872,"California","04000US06","california",0.5484846751821835
+0,"Owner Occupied",2019,"2019",183049,2158,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.668948278193373
+0,"Owner Occupied",2019,"2019",165131,1919,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7208001955529172
+0,"Owner Occupied",2019,"2019",155666,2166,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.6066508443135008
+0,"Owner Occupied",2019,"2019",153937,1820.9999999999998,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6367242434771099
+0,"Owner Occupied",2019,"2019",89055,1537,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.4439321053812218
+0,"Owner Occupied",2019,"2019",154879,2049,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5334768531275833
+0,"Owner Occupied",2019,"2019",135007,2017,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.49427946942765405
+0,"Owner Occupied",2018,"2018",76444810,367132,"United States","01000US","united-states",0.6384759732320674
+0,"Owner Occupied",2018,"2018",7085435,38161,"California","04000US06","california",0.5464864850273053
+0,"Owner Occupied",2018,"2018",177333,1926,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6587676316639982
+0,"Owner Occupied",2018,"2018",163169,1811.0000000000002,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7164233496520384
+0,"Owner Occupied",2018,"2018",153055,2007.9999999999998,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.5987505085594467
+0,"Owner Occupied",2018,"2018",152640,2174,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6320444551183841
+0,"Owner Occupied",2018,"2018",87517,1552,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.4412807260809278
+0,"Owner Occupied",2018,"2018",153324,1832,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5319575610805409
+0,"Owner Occupied",2018,"2018",134079,1597,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.49491899553727975
+0,"Owner Occupied",2017,"2017",75833135,358989,"United States","01000US","united-states",0.6381868060589238
+0,"Owner Occupied",2017,"2017",7024315,36191,"California","04000US06","california",0.5450221319962061
+0,"Owner Occupied",2017,"2017",171231,2211,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6473639439708134
+0,"Owner Occupied",2017,"2017",160381,1886,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7104520587388425
+0,"Owner Occupied",2017,"2017",153891,2142,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.5990843866909066
+0,"Owner Occupied",2017,"2017",150943,1830.9999999999998,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6298950056753689
+0,"Owner Occupied",2017,"2017",86010,1353,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.43453659029479375
+0,"Owner Occupied",2017,"2017",151004,1700.0000000000002,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.532548051490037
+0,"Owner Occupied",2017,"2017",132460,1629,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.4916870515480755
+0,"Owner Occupied",2016,"2016",74881068,360470,"United States","01000US","united-states",0.6361150331368476
+0,"Owner Occupied",2016,"2016",6929007,37726,"California","04000US06","california",0.541016446211862
+0,"Owner Occupied",2016,"2016",166740,2239,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6400104403766212
+0,"Owner Occupied",2016,"2016",157389,1883,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7078498569809488
+0,"Owner Occupied",2016,"2016",151731,1868.9999999999998,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.5970041785688992
+0,"Owner Occupied",2016,"2016",149297,1837,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6240756764439094
+0,"Owner Occupied",2016,"2016",84846,1414,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.42962827932977865
+0,"Owner Occupied",2016,"2016",148679,1877.0000000000002,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5306950695854854
+0,"Owner Occupied",2016,"2016",131109,1817.9999999999998,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.49113323743594356
+0,"Owner Occupied",2015,"2015",74712091,353420,"United States","01000US","united-states",0.6389673478521365
+0,"Owner Occupied",2015,"2015",6909176,36701,"California","04000US06","california",0.5432681325961933
+0,"Owner Occupied",2015,"2015",164842,2052,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6364850881121905
+0,"Owner Occupied",2015,"2015",156359,2073,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7140886816494111
+0,"Owner Occupied",2015,"2015",150108,2065,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.5974875811998471
+0,"Owner Occupied",2015,"2015",148491,1859.0000000000002,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.623079247056454
+0,"Owner Occupied",2015,"2015",85004,1464,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.43064421342736137
+0,"Owner Occupied",2015,"2015",147725,1659,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5345421518465179
+0,"Owner Occupied",2015,"2015",131467,1844.0000000000002,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.49498117469879516
+0,"Owner Occupied",2014,"2014",74787460,343068,"United States","01000US","united-states",0.6435483800462007
+0,"Owner Occupied",2014,"2014",6908925,34460,"California","04000US06","california",0.5475764190063152
+0,"Owner Occupied",2014,"2014",167183,1968.0000000000002,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6511636059124812
+0,"Owner Occupied",2014,"2014",154793,2053,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.7228993872823731
+0,"Owner Occupied",2014,"2014",149023,1882.0000000000002,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.5977225872179305
+0,"Owner Occupied",2014,"2014",147476,2060,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6242766736512371
+0,"Owner Occupied",2014,"2014",86037,1404,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.43821752727494984
+0,"Owner Occupied",2014,"2014",148138,1757,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5402414963877654
+0,"Owner Occupied",2014,"2014",131297,1759.9999999999998,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.4999619212989406
+0,"Owner Occupied",2013,"2013",75075700,345645,"United States","01000US","united-states",0.649386382947334
+0,"Owner Occupied",2013,"2013",6939104,35627,"California","04000US06","california",0.5532490436485347
+0,"Owner Occupied",2013,"2013",166754,1866,"Congressional District 36, CA","50000US0636","congressional-district-36-ca",0.6593073781348474
+0,"Owner Occupied",2013,"2013",154751,2170,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.733608286520183
+0,"Owner Occupied",2013,"2013",149379,1861,"Congressional District 49, CA","50000US0649","congressional-district-49-ca",0.6030179356448234
+0,"Owner Occupied",2013,"2013",146971,2113,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6304386058981233
+0,"Owner Occupied",2013,"2013",87511,1287,"Congressional District 51, CA","50000US0651","congressional-district-51-ca",0.4459091071219293
+0,"Owner Occupied",2013,"2013",147942,1711,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.5426316214174106
+0,"Owner Occupied",2013,"2013",131758,1726.9999999999998,"Congressional District 53, CA","50000US0653","congressional-district-53-ca",0.5039799567770191

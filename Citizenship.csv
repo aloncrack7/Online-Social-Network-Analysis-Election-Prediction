@@ -1,0 +1,81 @@
+ID Citizenship,Citizenship,ID Year,Year,Citizenship Status,Geography,ID Geography,Slug Geography,Citizenship %
+0,"Citizen",2022,"2022",,"United States","01000US","united-states",0.9347174233308304
+0,"Citizen",2022,"2022",34550271,"California","04000US06","california",0.8778884972963787
+0,"Citizen",2022,"2022",2195704,"Riverside County, CA","05000US06065","riverside-county-ca",0.9037726894607792
+0,"Citizen",2022,"2022",2981856,"San Diego County, CA","05000US06073","san-diego-county-ca",0.9064215866426767
+0,"Citizen",2022,"2022",621668,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.8260391794193112
+0,"Citizen",2022,"2022",667629,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.9071194095555906
+0,"Citizen",2022,"2022",668560,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.8689921765228095
+0,"Citizen",2022,"2022",4155486,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.9013971648897517
+0,"Citizen",2021,"2021",308022042,"United States","01000US","united-states",0.9341772466775171
+0,"Citizen",2021,"2021",34596526,"California","04000US06","california",0.8768525274631302
+0,"Citizen",2021,"2021",2171870,"Riverside County, CA","05000US06065","riverside-county-ca",0.9014411054354923
+0,"Citizen",2021,"2021",2978066,"San Diego County, CA","05000US06073","san-diego-county-ca",0.9034525502249935
+0,"Citizen",2021,"2021",761157,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9281779880617763
+0,"Citizen",2021,"2021",690345,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.9175641674874098
+0,"Citizen",2021,"2021",686265,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9060225916498559
+0,"Citizen",2021,"2021",4125296,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.9006405987946036
+0,"Citizen",2020,"2020",304900364,"United States","01000US","united-states",0.9336467222449453
+0,"Citizen",2020,"2020",34415898,"California","04000US06","california",0.8746982636593285
+0,"Citizen",2020,"2020",2190001,"Riverside County, CA","05000US06065","riverside-county-ca",0.8983277984333826
+0,"Citizen",2020,"2020",2990855,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8997839932370028
+0,"Citizen",2020,"2020",761151,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.925394673653368
+0,"Citizen",2020,"2020",684661,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.9142307379024774
+0,"Citizen",2020,"2020",702483,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9065525006613799
+0,"Citizen",2020,"2020",4132810,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8983596194762364
+0,"Citizen",2019,"2019",302533815,"United States","01000US","united-states",0.9317396658021654
+0,"Citizen",2019,"2019",34187373,"California","04000US06","california",0.8702731582170498
+0,"Citizen",2019,"2019",2155487,"Riverside County, CA","05000US06065","riverside-county-ca",0.8938592267936282
+0,"Citizen",2019,"2019",2962750,"San Diego County, CA","05000US06073","san-diego-county-ca",0.893451380593853
+0,"Citizen",2019,"2019",745995,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.922061773608833
+0,"Citizen",2019,"2019",682801,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.9101816761554878
+0,"Citizen",2019,"2019",694540,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9040040713633991
+0,"Citizen",2019,"2019",4078074,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8942223060342465
+0,"Citizen",2018,"2018",300613540,"United States","01000US","united-states",0.9309715675322093
+0,"Citizen",2018,"2018",33964450,"California","04000US06","california",0.8675740943008157
+0,"Citizen",2018,"2018",2120514,"Riverside County, CA","05000US06065","riverside-county-ca",0.8897438242829439
+0,"Citizen",2018,"2018",2937892,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8895066750271661
+0,"Citizen",2018,"2018",729514,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9171650525961119
+0,"Citizen",2018,"2018",675651,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.9035267781324511
+0,"Citizen",2018,"2018",689914,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9016621403683945
+0,"Citizen",2018,"2018",4028112,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8914318037116435
+0,"Citizen",2017,"2017",298666642,"United States","01000US","united-states",0.9304129023998103
+0,"Citizen",2017,"2017",33732243,"California","04000US06","california",0.8653098887313182
+0,"Citizen",2017,"2017",2083964,"Riverside County, CA","05000US06065","riverside-county-ca",0.8849096518813997
+0,"Citizen",2017,"2017",2908339,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8856990588260374
+0,"Citizen",2017,"2017",710147,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.913256061286087
+0,"Citizen",2017,"2017",668006,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8975354274742801
+0,"Citizen",2017,"2017",678832,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9002444125280319
+0,"Citizen",2017,"2017",3976813,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8884306899881195
+0,"Citizen",2016,"2016",296343215,"United States","01000US","united-states",0.9302640784322456
+0,"Citizen",2016,"2016",33355851,"California","04000US06","california",0.8629294054054557
+0,"Citizen",2016,"2016",2049168,"Riverside County, CA","05000US06065","riverside-county-ca",0.881782802298902
+0,"Citizen",2016,"2016",2872268,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8828631111996351
+0,"Citizen",2016,"2016",693480,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9108664842692039
+0,"Citizen",2016,"2016",657387,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8931876451254822
+0,"Citizen",2016,"2016",667512,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.8994251866863212
+0,"Citizen",2016,"2016",3921837,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8851614414692576
+0,"Citizen",2015,"2015",294245828,"United States","01000US","united-states",0.9296425397769669
+0,"Citizen",2015,"2015",33074021,"California","04000US06","california",0.8608214668759108
+0,"Citizen",2015,"2015",2023371,"Riverside County, CA","05000US06065","riverside-county-ca",0.8804799062850299
+0,"Citizen",2015,"2015",2838025,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8805276045144171
+0,"Citizen",2015,"2015",682063,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9101770277591696
+0,"Citizen",2015,"2015",649624,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8893756665621616
+0,"Citizen",2015,"2015",659108,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9015600314605204
+0,"Citizen",2015,"2015",3880166,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8833011101572777
+0,"Citizen",2014,"2014",291850247,"United States","01000US","united-states",0.9291425181610995
+0,"Citizen",2014,"2014",32688183,"California","04000US06","california",0.8587031207147834
+0,"Citizen",2014,"2014",1991397,"Riverside County, CA","05000US06065","riverside-county-ca",0.8784674570856488
+0,"Citizen",2014,"2014",2796329,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8784804829691911
+0,"Citizen",2014,"2014",670577,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9112759660046802
+0,"Citizen",2014,"2014",639728,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8873624696920098
+0,"Citizen",2014,"2014",654047,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9053631297289366
+0,"Citizen",2014,"2014",3826962,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8806754597012761
+0,"Citizen",2013,"2013",289401591,"United States","01000US","united-states",0.9289489471660591
+0,"Citizen",2013,"2013",32274313,"California","04000US06","california",0.8570104857033402
+0,"Citizen",2013,"2013",1955690,"Riverside County, CA","05000US06065","riverside-county-ca",0.8775703064982805
+0,"Citizen",2013,"2013",2753221,"San Diego County, CA","05000US06073","san-diego-county-ca",0.8773067283992907
+0,"Citizen",2013,"2013",659832,"Congressional District 42, CA","50000US0642","congressional-district-42-ca",0.9107047474980298
+0,"Citizen",2013,"2013",629067,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8857952721312583
+0,"Citizen",2013,"2013",645529,"Congressional District 52, CA","50000US0652","congressional-district-52-ca",0.9072509353189361
+0,"Citizen",2013,"2013",3772413,"Riverside-San Bernardino-Ontario, CA","31000US40140","riverside-san-bernardino-ontario-ca",0.8802854220672168

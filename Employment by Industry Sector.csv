@@ -1,0 +1,621 @@
+NSA Employees,Supersector ID,Supersector,Month of Year ID,Month of Year,Date,NSA Employees Growth
+837500,"15","Mining, Logging, and Construction","2018-01","January, 2018","2018-01-02",9.03528186434058
+859400,"15","Mining, Logging, and Construction","2018-02","February, 2018","2018-02-02",9.841513292433538
+852400,"15","Mining, Logging, and Construction","2018-03","March, 2018","2018-03-02",6.310800698428536
+868100,"15","Mining, Logging, and Construction","2018-04","April, 2018","2018-04-02",6.515337423312884
+878100,"15","Mining, Logging, and Construction","2018-05","May, 2018","2018-05-02",5.948359073359073
+891300,"15","Mining, Logging, and Construction","2018-06","June, 2018","2018-06-02",5.616779239246356
+900600,"15","Mining, Logging, and Construction","2018-07","July, 2018","2018-07-02",5.4319831421212825
+907800,"15","Mining, Logging, and Construction","2018-08","August, 2018","2018-08-02",5.509065550906555
+905700,"15","Mining, Logging, and Construction","2018-09","September, 2018","2018-09-02",5.130586186883343
+909800,"15","Mining, Logging, and Construction","2018-10","October, 2018","2018-10-02",5.38630835167381
+901200,"15","Mining, Logging, and Construction","2018-11","November, 2018","2018-11-02",4.863858505934373
+892500,"15","Mining, Logging, and Construction","2018-12","December, 2018","2018-12-02",4.276200490711532
+865900,"15","Mining, Logging, and Construction","2019-01","January, 2019","2019-01-02",3.391044776119403
+870600,"15","Mining, Logging, and Construction","2019-02","February, 2019","2019-02-02",1.3032348149872004
+883700,"15","Mining, Logging, and Construction","2019-03","March, 2019","2019-03-02",3.671984983575786
+894300,"15","Mining, Logging, and Construction","2019-04","April, 2019","2019-04-02",3.0180854740237297
+906000,"15","Mining, Logging, and Construction","2019-05","May, 2019","2019-05-02",3.177314656645029
+919300,"15","Mining, Logging, and Construction","2019-06","June, 2019","2019-06-02",3.1414787389206777
+929300,"15","Mining, Logging, and Construction","2019-07","July, 2019","2019-07-02",3.1867643793026876
+935100,"15","Mining, Logging, and Construction","2019-08","August, 2019","2019-08-02",3.007270323859881
+930100,"15","Mining, Logging, and Construction","2019-09","September, 2019","2019-09-02",2.694048802031578
+930800,"15","Mining, Logging, and Construction","2019-10","October, 2019","2019-10-02",2.3081996043086392
+929200,"15","Mining, Logging, and Construction","2019-11","November, 2019","2019-11-02",3.1069684864624945
+910900,"15","Mining, Logging, and Construction","2019-12","December, 2019","2019-12-02",2.061624649859944
+898600,"15","Mining, Logging, and Construction","2020-01","January, 2020","2020-01-02",3.776417600184779
+914600,"15","Mining, Logging, and Construction","2020-02","February, 2020","2020-02-02",5.05398575694923
+898500,"15","Mining, Logging, and Construction","2020-03","March, 2020","2020-03-02",1.6747765078646601
+758400,"15","Mining, Logging, and Construction","2020-04","April, 2020","2020-04-02",-15.196242871519624
+848200,"15","Mining, Logging, and Construction","2020-05","May, 2020","2020-05-02",-6.379690949227373
+878900,"15","Mining, Logging, and Construction","2020-06","June, 2020","2020-06-02",-4.3946481018166
+878200,"15","Mining, Logging, and Construction","2020-07","July, 2020","2020-07-02",-5.498762509415689
+886600,"15","Mining, Logging, and Construction","2020-08","August, 2020","2020-08-02",-5.186611057640894
+881400,"15","Mining, Logging, and Construction","2020-09","September, 2020","2020-09-02",-5.235996129448446
+898700,"15","Mining, Logging, and Construction","2020-10","October, 2020","2020-10-02",-3.4486463257412976
+893600,"15","Mining, Logging, and Construction","2020-11","November, 2020","2020-11-02",-3.8312526904864397
+886400,"15","Mining, Logging, and Construction","2020-12","December, 2020","2020-12-02",-2.689647601273466
+866800,"15","Mining, Logging, and Construction","2021-01","January, 2021","2021-01-02",-3.5388381927442687
+880800,"15","Mining, Logging, and Construction","2021-02","February, 2021","2021-02-02",-3.695604635906407
+885900,"15","Mining, Logging, and Construction","2021-03","March, 2021","2021-03-02",-1.4023372287145242
+901200,"15","Mining, Logging, and Construction","2021-04","April, 2021","2021-04-02",18.829113924050635
+904300,"15","Mining, Logging, and Construction","2021-05","May, 2021","2021-05-02",6.614006130629568
+906300,"15","Mining, Logging, and Construction","2021-06","June, 2021","2021-06-02",3.1175332802366595
+917100,"15","Mining, Logging, and Construction","2021-07","July, 2021","2021-07-02",4.429514916875427
+917100,"15","Mining, Logging, and Construction","2021-08","August, 2021","2021-08-02",3.4401082788179562
+907000,"15","Mining, Logging, and Construction","2021-09","September, 2021","2021-09-02",2.904470161107329
+922900,"15","Mining, Logging, and Construction","2021-10","October, 2021","2021-10-02",2.692778457772338
+920200,"15","Mining, Logging, and Construction","2021-11","November, 2021","2021-11-02",2.9767233661593555
+906700,"15","Mining, Logging, and Construction","2021-12","December, 2021","2021-12-02",2.2901624548736463
+889900,"15","Mining, Logging, and Construction","2022-01","January, 2022","2022-01-02",2.66497461928934
+915600,"15","Mining, Logging, and Construction","2022-02","February, 2022","2022-02-02",3.9509536784741144
+922600,"15","Mining, Logging, and Construction","2022-03","March, 2022","2022-03-02",4.142679760695338
+930700,"15","Mining, Logging, and Construction","2022-04","April, 2022","2022-04-02",3.2734132268086995
+936900,"15","Mining, Logging, and Construction","2022-05","May, 2022","2022-05-02",3.6049983412584323
+945300,"15","Mining, Logging, and Construction","2022-06","June, 2022","2022-06-02",4.303210857332009
+948300,"15","Mining, Logging, and Construction","2022-07","July, 2022","2022-07-02",3.4020281321557078
+948900,"15","Mining, Logging, and Construction","2022-08","August, 2022","2022-08-02",3.4674517500817794
+945800,"15","Mining, Logging, and Construction","2022-09","September, 2022","2022-09-02",4.277839029768468
+952500,"15","Mining, Logging, and Construction","2022-10","October, 2022","2022-10-02",3.2072813956008237
+931900,"15","Mining, Logging, and Construction","2022-11","November, 2022","2022-11-02",1.2714627254944577
+929500,"15","Mining, Logging, and Construction","2022-12","December, 2022","2022-12-02",2.5146134333296573
+896400,"15","Mining, Logging, and Construction","2023-01","January, 2023","2023-01-02",0.730419148218901
+925500,"15","Mining, Logging, and Construction","2023-02","February, 2023","2023-02-02",1.0812581913499346
+1305300,"30","Manufacturing","2018-01","January, 2018","2018-01-02",0.44632550981146596
+1312600,"30","Manufacturing","2018-02","February, 2018","2018-02-02",0.7599600829047364
+1316700,"30","Manufacturing","2018-03","March, 2018","2018-03-02",1.136800061448652
+1313900,"30","Manufacturing","2018-04","April, 2018","2018-04-02",1.0847822741960302
+1319000,"30","Manufacturing","2018-05","May, 2018","2018-05-02",0.9104123632468825
+1328100,"30","Manufacturing","2018-06","June, 2018","2018-06-02",0.8275129061645915
+1340200,"30","Manufacturing","2018-07","July, 2018","2018-07-02",1.0632682301485559
+1344400,"30","Manufacturing","2018-08","August, 2018","2018-08-02",0.817397825271841
+1342300,"30","Manufacturing","2018-09","September, 2018","2018-09-02",0.9551744885679904
+1335600,"30","Manufacturing","2018-10","October, 2018","2018-10-02",1.0134624111329602
+1328700,"30","Manufacturing","2018-11","November, 2018","2018-11-02",0.9266995822255982
+1327500,"30","Manufacturing","2018-12","December, 2018","2018-12-02",0.6749582890944942
+1313700,"30","Manufacturing","2019-01","January, 2019","2019-01-02",0.6435302229372558
+1320900,"30","Manufacturing","2019-02","February, 2019","2019-02-02",0.6323327746457412
+1322900,"30","Manufacturing","2019-03","March, 2019","2019-03-02",0.4708741550846814
+1321400,"30","Manufacturing","2019-04","April, 2019","2019-04-02",0.5708196970850141
+1324400,"30","Manufacturing","2019-05","May, 2019","2019-05-02",0.4094010614101592
+1332600,"30","Manufacturing","2019-06","June, 2019","2019-06-02",0.338829907386492
+1337900,"30","Manufacturing","2019-07","July, 2019","2019-07-02",-0.17161617669004625
+1345600,"30","Manufacturing","2019-08","August, 2019","2019-08-02",0.08925914906277893
+1341800,"30","Manufacturing","2019-09","September, 2019","2019-09-02",-0.03724949713178872
+1335200,"30","Manufacturing","2019-10","October, 2019","2019-10-02",-0.02994908655286014
+1328500,"30","Manufacturing","2019-11","November, 2019","2019-11-02",-0.015052306766011892
+1328800,"30","Manufacturing","2019-12","December, 2019","2019-12-02",0.09792843691148775
+1315700,"30","Manufacturing","2020-01","January, 2020","2020-01-02",0.15224175991474462
+1322300,"30","Manufacturing","2020-02","February, 2020","2020-02-02",0.10598834128245893
+1319800,"30","Manufacturing","2020-03","March, 2020","2020-03-02",-0.23433366089651522
+1200900,"30","Manufacturing","2020-04","April, 2020","2020-04-02",-9.119116088996519
+1225900,"30","Manufacturing","2020-05","May, 2020","2020-05-02",-7.437330111748716
+1256100,"30","Manufacturing","2020-06","June, 2020","2020-06-02",-5.740657361548852
+1259000,"30","Manufacturing","2020-07","July, 2020","2020-07-02",-5.897301741535242
+1265300,"30","Manufacturing","2020-08","August, 2020","2020-08-02",-5.9675980975029725
+1266400,"30","Manufacturing","2020-09","September, 2020","2020-09-02",-5.619317334923237
+1264800,"30","Manufacturing","2020-10","October, 2020","2020-10-02",-5.272618334331936
+1259600,"30","Manufacturing","2020-11","November, 2020","2020-11-02",-5.1863003387278885
+1260000,"30","Manufacturing","2020-12","December, 2020","2020-12-02",-5.177603853100542
+1242800,"30","Manufacturing","2021-01","January, 2021","2021-01-02",-5.540776772820552
+1256300,"30","Manufacturing","2021-02","February, 2021","2021-02-02",-4.991303032594721
+1265000,"30","Manufacturing","2021-03","March, 2021","2021-03-02",-4.152144264282467
+1265700,"30","Manufacturing","2021-04","April, 2021","2021-04-02",5.395953035223582
+1271500,"30","Manufacturing","2021-05","May, 2021","2021-05-02",3.7197161269271555
+1279100,"30","Manufacturing","2021-06","June, 2021","2021-06-02",1.831064405700183
+1295500,"30","Manufacturing","2021-07","July, 2021","2021-07-02",2.8991262907069104
+1300300,"30","Manufacturing","2021-08","August, 2021","2021-08-02",2.7661424168181457
+1297600,"30","Manufacturing","2021-09","September, 2021","2021-09-02",2.46367656348705
+1305600,"30","Manufacturing","2021-10","October, 2021","2021-10-02",3.225806451612903
+1305700,"30","Manufacturing","2021-11","November, 2021","2021-11-02",3.659892029215624
+1309200,"30","Manufacturing","2021-12","December, 2021","2021-12-02",3.9047619047619047
+1300200,"30","Manufacturing","2022-01","January, 2022","2022-01-02",4.6186031541680075
+1313700,"30","Manufacturing","2022-02","February, 2022","2022-02-02",4.5689723792087875
+1320900,"30","Manufacturing","2022-03","March, 2022","2022-03-02",4.4189723320158105
+1327500,"30","Manufacturing","2022-04","April, 2022","2022-04-02",4.882673619341076
+1331200,"30","Manufacturing","2022-05","May, 2022","2022-05-02",4.695241840346048
+1340600,"30","Manufacturing","2022-06","June, 2022","2022-06-02",4.808068172934094
+1352200,"30","Manufacturing","2022-07","July, 2022","2022-07-02",4.376688537244307
+1357500,"30","Manufacturing","2022-08","August, 2022","2022-08-02",4.398984849650081
+1353600,"30","Manufacturing","2022-09","September, 2022","2022-09-02",4.315659679408138
+1354800,"30","Manufacturing","2022-10","October, 2022","2022-10-02",3.768382352941176
+1349400,"30","Manufacturing","2022-11","November, 2022","2022-11-02",3.346863751244543
+1341300,"30","Manufacturing","2022-12","December, 2022","2022-12-02",2.451879010082493
+1330200,"30","Manufacturing","2023-01","January, 2023","2023-01-02",2.3073373327180433
+1332800,"30","Manufacturing","2023-02","February, 2023","2023-02-02",1.453908807185811
+3025600,"40","Trade, Transportation, and Utilities","2018-01","January, 2018","2018-01-02",1.3329760868109048
+2999400,"40","Trade, Transportation, and Utilities","2018-02","February, 2018","2018-02-02",1.622903608334745
+2997600,"40","Trade, Transportation, and Utilities","2018-03","March, 2018","2018-03-02",1.5034538805363673
+2992400,"40","Trade, Transportation, and Utilities","2018-04","April, 2018","2018-04-02",0.9786056556657893
+3003800,"40","Trade, Transportation, and Utilities","2018-05","May, 2018","2018-05-02",1.0223986009282304
+3008600,"40","Trade, Transportation, and Utilities","2018-06","June, 2018","2018-06-02",1.0004028467839399
+3024700,"40","Trade, Transportation, and Utilities","2018-07","July, 2018","2018-07-02",1.1436214679819428
+3033400,"40","Trade, Transportation, and Utilities","2018-08","August, 2018","2018-08-02",0.928298120113126
+3028200,"40","Trade, Transportation, and Utilities","2018-09","September, 2018","2018-09-02",0.8761117958626203
+3050400,"40","Trade, Transportation, and Utilities","2018-10","October, 2018","2018-10-02",0.6998547471279546
+3131300,"40","Trade, Transportation, and Utilities","2018-11","November, 2018","2018-11-02",0.5878573723096692
+3147100,"40","Trade, Transportation, and Utilities","2018-12","December, 2018","2018-12-02",0.37956111252870633
+3040600,"40","Trade, Transportation, and Utilities","2019-01","January, 2019","2019-01-02",0.4957694341618192
+3003800,"40","Trade, Transportation, and Utilities","2019-02","February, 2019","2019-02-02",0.14669600586784023
+2997700,"40","Trade, Transportation, and Utilities","2019-03","March, 2019","2019-03-02",0.0033360021350413663
+2996000,"40","Trade, Transportation, and Utilities","2019-04","April, 2019","2019-04-02",0.12030477208929287
+3006800,"40","Trade, Transportation, and Utilities","2019-05","May, 2019","2019-05-02",0.09987349357480524
+3010300,"40","Trade, Transportation, and Utilities","2019-06","June, 2019","2019-06-02",0.056504686565179825
+3028700,"40","Trade, Transportation, and Utilities","2019-07","July, 2019","2019-07-02",0.13224452011769763
+3039800,"40","Trade, Transportation, and Utilities","2019-08","August, 2019","2019-08-02",0.21098437396980285
+3026500,"40","Trade, Transportation, and Utilities","2019-09","September, 2019","2019-09-02",-0.056138960438544355
+3058600,"40","Trade, Transportation, and Utilities","2019-10","October, 2019","2019-10-02",0.2688172043010753
+3152200,"40","Trade, Transportation, and Utilities","2019-11","November, 2019","2019-11-02",0.6674544119055983
+3170000,"40","Trade, Transportation, and Utilities","2019-12","December, 2019","2019-12-02",0.7276540306949255
+3059400,"40","Trade, Transportation, and Utilities","2020-01","January, 2020","2020-01-02",0.6182990199302769
+3029400,"40","Trade, Transportation, and Utilities","2020-02","February, 2020","2020-02-02",0.852253811838338
+3002600,"40","Trade, Transportation, and Utilities","2020-03","March, 2020","2020-03-02",0.16345865163291856
+2578200,"40","Trade, Transportation, and Utilities","2020-04","April, 2020","2020-04-02",-13.945260347129507
+2617200,"40","Trade, Transportation, and Utilities","2020-05","May, 2020","2020-05-02",-12.95729679393375
+2779800,"40","Trade, Transportation, and Utilities","2020-06","June, 2020","2020-06-02",-7.657044148423744
+2823200,"40","Trade, Transportation, and Utilities","2020-07","July, 2020","2020-07-02",-6.785089312246178
+2851100,"40","Trade, Transportation, and Utilities","2020-08","August, 2020","2020-08-02",-6.207645239818409
+2884500,"40","Trade, Transportation, and Utilities","2020-09","September, 2020","2020-09-02",-4.691888319841401
+2964700,"40","Trade, Transportation, and Utilities","2020-10","October, 2020","2020-10-02",-3.0700320408029818
+3052900,"40","Trade, Transportation, and Utilities","2020-11","November, 2020","2020-11-02",-3.150180826089715
+3070100,"40","Trade, Transportation, and Utilities","2020-12","December, 2020","2020-12-02",-3.1514195583596214
+2976700,"40","Trade, Transportation, and Utilities","2021-01","January, 2021","2021-01-02",-2.703144407400144
+2972700,"40","Trade, Transportation, and Utilities","2021-02","February, 2021","2021-02-02",-1.8716577540106951
+2971000,"40","Trade, Transportation, and Utilities","2021-03","March, 2021","2021-03-02",-1.0524212349297275
+2948200,"40","Trade, Transportation, and Utilities","2021-04","April, 2021","2021-04-02",14.351097665037624
+2963400,"40","Trade, Transportation, and Utilities","2021-05","May, 2021","2021-05-02",13.227877120586887
+2971700,"40","Trade, Transportation, and Utilities","2021-06","June, 2021","2021-06-02",6.903374343477949
+3006000,"40","Trade, Transportation, and Utilities","2021-07","July, 2021","2021-07-02",6.474922074241995
+3016000,"40","Trade, Transportation, and Utilities","2021-08","August, 2021","2021-08-02",5.783732594437234
+3011500,"40","Trade, Transportation, and Utilities","2021-09","September, 2021","2021-09-02",4.402842780377882
+3092200,"40","Trade, Transportation, and Utilities","2021-10","October, 2021","2021-10-02",4.300603771039229
+3167200,"40","Trade, Transportation, and Utilities","2021-11","November, 2021","2021-11-02",3.7439811326935044
+3196900,"40","Trade, Transportation, and Utilities","2021-12","December, 2021","2021-12-02",4.130158626754829
+3093900,"40","Trade, Transportation, and Utilities","2022-01","January, 2022","2022-01-02",3.937245943494474
+3118900,"40","Trade, Transportation, and Utilities","2022-02","February, 2022","2022-02-02",4.918087933528442
+3108900,"40","Trade, Transportation, and Utilities","2022-03","March, 2022","2022-03-02",4.6415348367553015
+3104800,"40","Trade, Transportation, and Utilities","2022-04","April, 2022","2022-04-02",5.311715623092056
+3104600,"40","Trade, Transportation, and Utilities","2022-05","May, 2022","2022-05-02",4.764797192414119
+3103000,"40","Trade, Transportation, and Utilities","2022-06","June, 2022","2022-06-02",4.418346401049904
+3126500,"40","Trade, Transportation, and Utilities","2022-07","July, 2022","2022-07-02",4.008649367930805
+3129800,"40","Trade, Transportation, and Utilities","2022-08","August, 2022","2022-08-02",3.7732095490716184
+3120800,"40","Trade, Transportation, and Utilities","2022-09","September, 2022","2022-09-02",3.629420554540926
+3161100,"40","Trade, Transportation, and Utilities","2022-10","October, 2022","2022-10-02",2.2281870512903432
+3204800,"40","Trade, Transportation, and Utilities","2022-11","November, 2022","2022-11-02",1.187168476888103
+3219400,"40","Trade, Transportation, and Utilities","2022-12","December, 2022","2022-12-02",0.7038068128499484
+3132300,"40","Trade, Transportation, and Utilities","2023-01","January, 2023","2023-01-02",1.2411519441481624
+3115700,"40","Trade, Transportation, and Utilities","2023-02","February, 2023","2023-02-02",-0.10260027573824106
+537300,"50","Information","2018-01","January, 2018","2018-01-02",3.826086956521739
+547700,"50","Information","2018-02","February, 2018","2018-02-02",1.5575746337845355
+545900,"50","Information","2018-03","March, 2018","2018-03-02",4.4784688995215305
+532300,"50","Information","2018-04","April, 2018","2018-04-02",2.1101093420295416
+530800,"50","Information","2018-05","May, 2018","2018-05-02",1.7442974889783285
+542200,"50","Information","2018-06","June, 2018","2018-06-02",3.1190566755420313
+539800,"50","Information","2018-07","July, 2018","2018-07-02",2.0994893134102512
+548900,"50","Information","2018-08","August, 2018","2018-08-02",3.2349069023885653
+548900,"50","Information","2018-09","September, 2018","2018-09-02",2.578957204260886
+549300,"50","Information","2018-10","October, 2018","2018-10-02",2.0624303232998886
+552600,"50","Information","2018-11","November, 2018","2018-11-02",2.2575869726128794
+558000,"50","Information","2018-12","December, 2018","2018-12-02",1.7691045048331207
+554500,"50","Information","2019-01","January, 2019","2019-01-02",3.201191140889633
+570600,"50","Information","2019-02","February, 2019","2019-02-02",4.1811210516706225
+563600,"50","Information","2019-03","March, 2019","2019-03-02",3.242352079135373
+547100,"50","Information","2019-04","April, 2019","2019-04-02",2.780386999812136
+547600,"50","Information","2019-05","May, 2019","2019-05-02",3.1650339110776184
+557400,"50","Information","2019-06","June, 2019","2019-06-02",2.803393581704168
+555300,"50","Information","2019-07","July, 2019","2019-07-02",2.87143386439422
+565600,"50","Information","2019-08","August, 2019","2019-08-02",3.0424485334304974
+571700,"50","Information","2019-09","September, 2019","2019-09-02",4.153762069593733
+565400,"50","Information","2019-10","October, 2019","2019-10-02",2.931003094847988
+577300,"50","Information","2019-11","November, 2019","2019-11-02",4.469779225479551
+573900,"50","Information","2019-12","December, 2019","2019-12-02",2.849462365591398
+579200,"50","Information","2020-01","January, 2020","2020-01-02",4.454463480613165
+592500,"50","Information","2020-02","February, 2020","2020-02-02",3.838065194532071
+587900,"50","Information","2020-03","March, 2020","2020-03-02",4.311568488289566
+506000,"50","Information","2020-04","April, 2020","2020-04-02",-7.5123377810272345
+504000,"50","Information","2020-05","May, 2020","2020-05-02",-7.962016070124179
+499400,"50","Information","2020-06","June, 2020","2020-06-02",-10.405453893074991
+505600,"50","Information","2020-07","July, 2020","2020-07-02",-8.950117053844767
+514800,"50","Information","2020-08","August, 2020","2020-08-02",-8.981612446958982
+517500,"50","Information","2020-09","September, 2020","2020-09-02",-9.480496764037083
+535800,"50","Information","2020-10","October, 2020","2020-10-02",-5.235231694375663
+544400,"50","Information","2020-11","November, 2020","2020-11-02",-5.698943357006756
+541800,"50","Information","2020-12","December, 2020","2020-12-02",-5.5933089388395185
+525500,"50","Information","2021-01","January, 2021","2021-01-02",-9.271408839779005
+536300,"50","Information","2021-02","February, 2021","2021-02-02",-9.485232067510548
+542900,"50","Information","2021-03","March, 2021","2021-03-02",-7.654362986902534
+547400,"50","Information","2021-04","April, 2021","2021-04-02",8.181818181818182
+557800,"50","Information","2021-05","May, 2021","2021-05-02",10.674603174603174
+555900,"50","Information","2021-06","June, 2021","2021-06-02",11.31357629154986
+555800,"50","Information","2021-07","July, 2021","2021-07-02",9.92879746835443
+586500,"50","Information","2021-08","August, 2021","2021-08-02",13.927738927738927
+566900,"50","Information","2021-09","September, 2021","2021-09-02",9.545893719806763
+583500,"50","Information","2021-10","October, 2021","2021-10-02",8.902575587905934
+598800,"50","Information","2021-11","November, 2021","2021-11-02",9.992652461425422
+593400,"50","Information","2021-12","December, 2021","2021-12-02",9.523809523809524
+594000,"50","Information","2022-01","January, 2022","2022-01-02",13.035204567078972
+611700,"50","Information","2022-02","February, 2022","2022-02-02",14.059295170613462
+607500,"50","Information","2022-03","March, 2022","2022-03-02",11.89906060047891
+601500,"50","Information","2022-04","April, 2022","2022-04-02",9.88308366824991
+607800,"50","Information","2022-05","May, 2022","2022-05-02",8.963786303334528
+608900,"50","Information","2022-06","June, 2022","2022-06-02",9.53408886490376
+609700,"50","Information","2022-07","July, 2022","2022-07-02",9.697732997481108
+619700,"50","Information","2022-08","August, 2022","2022-08-02",5.660699062233589
+606200,"50","Information","2022-09","September, 2022","2022-09-02",6.9324395837008295
+609400,"50","Information","2022-10","October, 2022","2022-10-02",4.438731790916881
+613400,"50","Information","2022-11","November, 2022","2022-11-02",2.4382097528390116
+609100,"50","Information","2022-12","December, 2022","2022-12-02",2.6457701381867205
+585700,"50","Information","2023-01","January, 2023","2023-01-02",-1.3973063973063973
+589100,"50","Information","2023-02","February, 2023","2023-02-02",-3.694621546509727
+833800,"55","Financial Activities","2018-01","January, 2018","2018-01-02",1.1770416211624803
+837100,"55","Financial Activities","2018-02","February, 2018","2018-02-02",1.3438256658595642
+835400,"55","Financial Activities","2018-03","March, 2018","2018-03-02",1.1380145278450362
+836900,"55","Financial Activities","2018-04","April, 2018","2018-04-02",0.9164355480525745
+838500,"55","Financial Activities","2018-05","May, 2018","2018-05-02",0.6844380403458213
+840000,"55","Financial Activities","2018-06","June, 2018","2018-06-02",0.6832074793239842
+843500,"55","Financial Activities","2018-07","July, 2018","2018-07-02",0.5723142959341838
+842400,"55","Financial Activities","2018-08","August, 2018","2018-08-02",0.6091006807595843
+834500,"55","Financial Activities","2018-09","September, 2018","2018-09-02",0.1319894408447324
+841900,"55","Financial Activities","2018-10","October, 2018","2018-10-02",0.3336908592539626
+840100,"55","Financial Activities","2018-11","November, 2018","2018-11-02",0.1788695444788934
+841600,"55","Financial Activities","2018-12","December, 2018","2018-12-02",-0.07124198527665639
+831000,"55","Financial Activities","2019-01","January, 2019","2019-01-02",-0.3358119453106261
+834400,"55","Financial Activities","2019-02","February, 2019","2019-02-02",-0.3225421096643173
+833100,"55","Financial Activities","2019-03","March, 2019","2019-03-02",-0.27531721331098874
+835000,"55","Financial Activities","2019-04","April, 2019","2019-04-02",-0.22702831879555502
+837100,"55","Financial Activities","2019-05","May, 2019","2019-05-02",-0.16696481812760883
+840600,"55","Financial Activities","2019-06","June, 2019","2019-06-02",0.07142857142857142
+847600,"55","Financial Activities","2019-07","July, 2019","2019-07-02",0.4860699466508595
+848300,"55","Financial Activities","2019-08","August, 2019","2019-08-02",0.7003798670465338
+841300,"55","Financial Activities","2019-09","September, 2019","2019-09-02",0.8148591971240263
+850800,"55","Financial Activities","2019-10","October, 2019","2019-10-02",1.0571326760897968
+851500,"55","Financial Activities","2019-11","November, 2019","2019-11-02",1.3569813117486014
+855000,"55","Financial Activities","2019-12","December, 2019","2019-12-02",1.5922053231939164
+844500,"55","Financial Activities","2020-01","January, 2020","2020-01-02",1.6245487364620936
+849000,"55","Financial Activities","2020-02","February, 2020","2020-02-02",1.7497603068072867
+841900,"55","Financial Activities","2020-03","March, 2020","2020-03-02",1.0562957628135878
+798200,"55","Financial Activities","2020-04","April, 2020","2020-04-02",-4.407185628742515
+799300,"55","Financial Activities","2020-05","May, 2020","2020-05-02",-4.515589535300442
+802000,"55","Financial Activities","2020-06","June, 2020","2020-06-02",-4.591958125148703
+806300,"55","Financial Activities","2020-07","July, 2020","2020-07-02",-4.872581406323738
+809000,"55","Financial Activities","2020-08","August, 2020","2020-08-02",-4.632795001768242
+805400,"55","Financial Activities","2020-09","September, 2020","2020-09-02",-4.2672055152739805
+819900,"55","Financial Activities","2020-10","October, 2020","2020-10-02",-3.631875881523272
+820600,"55","Financial Activities","2020-11","November, 2020","2020-11-02",-3.62889019377569
+824500,"55","Financial Activities","2020-12","December, 2020","2020-12-02",-3.5672514619883042
+813200,"55","Financial Activities","2021-01","January, 2021","2021-01-02",-3.7063351095322674
+817900,"55","Financial Activities","2021-02","February, 2021","2021-02-02",-3.6631330977620733
+817900,"55","Financial Activities","2021-03","March, 2021","2021-03-02",-2.8506948568713626
+822000,"55","Financial Activities","2021-04","April, 2021","2021-04-02",2.981708844901027
+822300,"55","Financial Activities","2021-05","May, 2021","2021-05-02",2.8775178280995872
+822000,"55","Financial Activities","2021-06","June, 2021","2021-06-02",2.493765586034913
+833300,"55","Financial Activities","2021-07","July, 2021","2021-07-02",3.3486295423539625
+833200,"55","Financial Activities","2021-08","August, 2021","2021-08-02",2.991347342398022
+823600,"55","Financial Activities","2021-09","September, 2021","2021-09-02",2.259746709709461
+844900,"55","Financial Activities","2021-10","October, 2021","2021-10-02",3.049152335650689
+846800,"55","Financial Activities","2021-11","November, 2021","2021-11-02",3.192785766512308
+850700,"55","Financial Activities","2021-12","December, 2021","2021-12-02",3.177683444511825
+838500,"55","Financial Activities","2022-01","January, 2022","2022-01-02",3.1111657648794884
+843300,"55","Financial Activities","2022-02","February, 2022","2022-02-02",3.1055141215307493
+840000,"55","Financial Activities","2022-03","March, 2022","2022-03-02",2.702041814402739
+845600,"55","Financial Activities","2022-04","April, 2022","2022-04-02",2.8710462287104623
+844500,"55","Financial Activities","2022-05","May, 2022","2022-05-02",2.69974461875228
+845100,"55","Financial Activities","2022-06","June, 2022","2022-06-02",2.81021897810219
+845600,"55","Financial Activities","2022-07","July, 2022","2022-07-02",1.4760590423616944
+842800,"55","Financial Activities","2022-08","August, 2022","2022-08-02",1.1521843494959194
+835400,"55","Financial Activities","2022-09","September, 2022","2022-09-02",1.4327343370568237
+847900,"55","Financial Activities","2022-10","October, 2022","2022-10-02",0.35507160610723165
+852900,"55","Financial Activities","2022-11","November, 2022","2022-11-02",0.7203589985829003
+854400,"55","Financial Activities","2022-12","December, 2022","2022-12-02",0.4349359351122605
+842300,"55","Financial Activities","2023-01","January, 2023","2023-01-02",0.4531902206320811
+843700,"55","Financial Activities","2023-02","February, 2023","2023-02-02",0.04743270484999407
+2598000,"60","Professional and Business Services","2018-01","January, 2018","2018-01-02",3.452395173814359
+2623300,"60","Professional and Business Services","2018-02","February, 2018","2018-02-02",3.45874743650418
+2632800,"60","Professional and Business Services","2018-03","March, 2018","2018-03-02",3.162101798518867
+2645000,"60","Professional and Business Services","2018-04","April, 2018","2018-04-02",3.688894115802266
+2648100,"60","Professional and Business Services","2018-05","May, 2018","2018-05-02",3.28003120124805
+2662000,"60","Professional and Business Services","2018-06","June, 2018","2018-06-02",3.0824039653035937
+2680400,"60","Professional and Business Services","2018-07","July, 2018","2018-07-02",3.0051494888940127
+2698900,"60","Professional and Business Services","2018-08","August, 2018","2018-08-02",3.2242025548841124
+2694400,"60","Professional and Business Services","2018-09","September, 2018","2018-09-02",3.2020836525203005
+2727800,"60","Professional and Business Services","2018-10","October, 2018","2018-10-02",3.698916555787873
+2741000,"60","Professional and Business Services","2018-11","November, 2018","2018-11-02",3.613820216224389
+2742000,"60","Professional and Business Services","2018-12","December, 2018","2018-12-02",3.6555400143651005
+2669300,"60","Professional and Business Services","2019-01","January, 2019","2019-01-02",2.7444187836797536
+2690700,"60","Professional and Business Services","2019-02","February, 2019","2019-02-02",2.56928296420539
+2694700,"60","Professional and Business Services","2019-03","March, 2019","2019-03-02",2.351109085384382
+2701800,"60","Professional and Business Services","2019-04","April, 2019","2019-04-02",2.1474480151228734
+2702000,"60","Professional and Business Services","2019-05","May, 2019","2019-05-02",2.035421623050489
+2719600,"60","Professional and Business Services","2019-06","June, 2019","2019-06-02",2.163786626596544
+2731300,"60","Professional and Business Services","2019-07","July, 2019","2019-07-02",1.89897030293986
+2750300,"60","Professional and Business Services","2019-08","August, 2019","2019-08-02",1.9044796028011413
+2736300,"60","Professional and Business Services","2019-09","September, 2019","2019-09-02",1.5550771971496438
+2771000,"60","Professional and Business Services","2019-10","October, 2019","2019-10-02",1.5836938191949554
+2787600,"60","Professional and Business Services","2019-11","November, 2019","2019-11-02",1.700109449106166
+2782400,"60","Professional and Business Services","2019-12","December, 2019","2019-12-02",1.4733770970094822
+2734100,"60","Professional and Business Services","2020-01","January, 2020","2020-01-02",2.427602742291987
+2759800,"60","Professional and Business Services","2020-02","February, 2020","2020-02-02",2.5681049541011634
+2719500,"60","Professional and Business Services","2020-03","March, 2020","2020-03-02",0.9203250825694882
+2461600,"60","Professional and Business Services","2020-04","April, 2020","2020-04-02",-8.890369383374047
+2488300,"60","Professional and Business Services","2020-05","May, 2020","2020-05-02",-7.908956328645448
+2515900,"60","Professional and Business Services","2020-06","June, 2020","2020-06-02",-7.4900720694219745
+2540100,"60","Professional and Business Services","2020-07","July, 2020","2020-07-02",-7.000329513418518
+2557200,"60","Professional and Business Services","2020-08","August, 2020","2020-08-02",-7.02105224884558
+2556900,"60","Professional and Business Services","2020-09","September, 2020","2020-09-02",-6.556298651463656
+2628800,"60","Professional and Business Services","2020-10","October, 2020","2020-10-02",-5.131721400216528
+2645300,"60","Professional and Business Services","2020-11","November, 2020","2020-11-02",-5.104749605395322
+2653100,"60","Professional and Business Services","2020-12","December, 2020","2020-12-02",-4.647067280046004
+2607100,"60","Professional and Business Services","2021-01","January, 2021","2021-01-02",-4.645038586737866
+2646000,"60","Professional and Business Services","2021-02","February, 2021","2021-02-02",-4.12348720921806
+2656200,"60","Professional and Business Services","2021-03","March, 2021","2021-03-02",-2.3276337562051848
+2674800,"60","Professional and Business Services","2021-04","April, 2021","2021-04-02",8.661033474163146
+2683300,"60","Professional and Business Services","2021-05","May, 2021","2021-05-02",7.8366756420045816
+2670000,"60","Professional and Business Services","2021-06","June, 2021","2021-06-02",6.125044715608728
+2710500,"60","Professional and Business Services","2021-07","July, 2021","2021-07-02",6.70839730719263
+2717300,"60","Professional and Business Services","2021-08","August, 2021","2021-08-02",6.260753949632411
+2713100,"60","Professional and Business Services","2021-09","September, 2021","2021-09-02",6.108960068833353
+2811200,"60","Professional and Business Services","2021-10","October, 2021","2021-10-02",6.938527084601338
+2830500,"60","Professional and Business Services","2021-11","November, 2021","2021-11-02",7.001096283975353
+2835600,"60","Professional and Business Services","2021-12","December, 2021","2021-12-02",6.878745618333271
+2780800,"60","Professional and Business Services","2022-01","January, 2022","2022-01-02",6.662575275210003
+2827400,"60","Professional and Business Services","2022-02","February, 2022","2022-02-02",6.855631141345427
+2829800,"60","Professional and Business Services","2022-03","March, 2022","2022-03-02",6.535652435810555
+2862600,"60","Professional and Business Services","2022-04","April, 2022","2022-04-02",7.0210856886496185
+2860100,"60","Professional and Business Services","2022-05","May, 2022","2022-05-02",6.588901725487273
+2858700,"60","Professional and Business Services","2022-06","June, 2022","2022-06-02",7.067415730337078
+2880400,"60","Professional and Business Services","2022-07","July, 2022","2022-07-02",6.26821619627375
+2889000,"60","Professional and Business Services","2022-08","August, 2022","2022-08-02",6.318772310749641
+2888000,"60","Professional and Business Services","2022-09","September, 2022","2022-09-02",6.446500313294755
+2928300,"60","Professional and Business Services","2022-10","October, 2022","2022-10-02",4.16548093340922
+2935300,"60","Professional and Business Services","2022-11","November, 2022","2022-11-02",3.702526055467232
+2931700,"60","Professional and Business Services","2022-12","December, 2022","2022-12-02",3.3890534631118636
+2875600,"60","Professional and Business Services","2023-01","January, 2023","2023-01-02",3.4090909090909087
+2891300,"60","Professional and Business Services","2023-02","February, 2023","2023-02-02",2.260026879818915
+2680100,"65","Education and Health Services","2018-01","January, 2018","2018-01-02",3.3949307511284283
+2711200,"65","Education and Health Services","2018-02","February, 2018","2018-02-02",3.1619801377420953
+2722700,"65","Education and Health Services","2018-03","March, 2018","2018-03-02",2.9181629181629183
+2717700,"65","Education and Health Services","2018-04","April, 2018","2018-04-02",2.5973045415077958
+2717800,"65","Education and Health Services","2018-05","May, 2018","2018-05-02",2.3422202138876336
+2704700,"65","Education and Health Services","2018-06","June, 2018","2018-06-02",2.571201031514278
+2678200,"65","Education and Health Services","2018-07","July, 2018","2018-07-02",2.6366214455430366
+2704400,"65","Education and Health Services","2018-08","August, 2018","2018-08-02",2.9267364414843007
+2719500,"65","Education and Health Services","2018-09","September, 2018","2018-09-02",2.267599277978339
+2763100,"65","Education and Health Services","2018-10","October, 2018","2018-10-02",2.5763819282028435
+2773600,"65","Education and Health Services","2018-11","November, 2018","2018-11-02",2.5663782264625397
+2777400,"65","Education and Health Services","2018-12","December, 2018","2018-12-02",2.6158279760585237
+2750400,"65","Education and Health Services","2019-01","January, 2019","2019-01-02",2.6230364538636617
+2788500,"65","Education and Health Services","2019-02","February, 2019","2019-02-02",2.8511360283269402
+2797000,"65","Education and Health Services","2019-03","March, 2019","2019-03-02",2.7289088037609726
+2799600,"65","Education and Health Services","2019-04","April, 2019","2019-04-02",3.0135776575780993
+2803400,"65","Education and Health Services","2019-05","May, 2019","2019-05-02",3.149606299212598
+2784200,"65","Education and Health Services","2019-06","June, 2019","2019-06-02",2.9393278367286575
+2767700,"65","Education and Health Services","2019-07","July, 2019","2019-07-02",3.3417967291464414
+2789900,"65","Education and Health Services","2019-08","August, 2019","2019-08-02",3.1615145688507615
+2812400,"65","Education and Health Services","2019-09","September, 2019","2019-09-02",3.4160691303548445
+2853800,"65","Education and Health Services","2019-10","October, 2019","2019-10-02",3.2825449676088447
+2871800,"65","Education and Health Services","2019-11","November, 2019","2019-11-02",3.5405249495240843
+2872700,"65","Education and Health Services","2019-12","December, 2019","2019-12-02",3.4312666522647075
+2850900,"65","Education and Health Services","2020-01","January, 2020","2020-01-02",3.6540139616055844
+2886600,"65","Education and Health Services","2020-02","February, 2020","2020-02-02",3.5180204410973643
+2876700,"65","Education and Health Services","2020-03","March, 2020","2020-03-02",2.8494815874150876
+2589400,"65","Education and Health Services","2020-04","April, 2020","2020-04-02",-7.508215459351336
+2626000,"65","Education and Health Services","2020-05","May, 2020","2020-05-02",-6.328030248983377
+2671500,"65","Education and Health Services","2020-06","June, 2020","2020-06-02",-4.047841390704691
+2658300,"65","Education and Health Services","2020-07","July, 2020","2020-07-02",-3.9527405426888755
+2683400,"65","Education and Health Services","2020-08","August, 2020","2020-08-02",-3.8173411233377545
+2707200,"65","Education and Health Services","2020-09","September, 2020","2020-09-02",-3.7405774427535206
+2758700,"65","Education and Health Services","2020-10","October, 2020","2020-10-02",-3.3323989067208633
+2772400,"65","Education and Health Services","2020-11","November, 2020","2020-11-02",-3.461243819207466
+2778900,"65","Education and Health Services","2020-12","December, 2020","2020-12-02",-3.2652208723500538
+2743800,"65","Education and Health Services","2021-01","January, 2021","2021-01-02",-3.7567084078711988
+2778000,"65","Education and Health Services","2021-02","February, 2021","2021-02-02",-3.762211598420287
+2791000,"65","Education and Health Services","2021-03","March, 2021","2021-03-02",-2.979108005700977
+2815900,"65","Education and Health Services","2021-04","April, 2021","2021-04-02",8.747200123580752
+2823900,"65","Education and Health Services","2021-05","May, 2021","2021-05-02",7.536176694592537
+2802800,"65","Education and Health Services","2021-06","June, 2021","2021-06-02",4.914841849148418
+2792100,"65","Education and Health Services","2021-07","July, 2021","2021-07-02",5.0332919535041185
+2807500,"65","Education and Health Services","2021-08","August, 2021","2021-08-02",4.624729820377134
+2812100,"65","Education and Health Services","2021-09","September, 2021","2021-09-02",3.8748522458628845
+2872300,"65","Education and Health Services","2021-10","October, 2021","2021-10-02",4.117881610903686
+2887300,"65","Education and Health Services","2021-11","November, 2021","2021-11-02",4.144423604097533
+2889400,"65","Education and Health Services","2021-12","December, 2021","2021-12-02",3.976393537011048
+2848700,"65","Education and Health Services","2022-01","January, 2022","2022-01-02",3.8231649537138277
+2883100,"65","Education and Health Services","2022-02","February, 2022","2022-02-02",3.7832973362131033
+2899100,"65","Education and Health Services","2022-03","March, 2022","2022-03-02",3.873163740594769
+2924600,"65","Education and Health Services","2022-04","April, 2022","2022-04-02",3.8602223090308607
+2931000,"65","Education and Health Services","2022-05","May, 2022","2022-05-02",3.79262721767768
+2909500,"65","Education and Health Services","2022-06","June, 2022","2022-06-02",3.80690737833595
+2901900,"65","Education and Health Services","2022-07","July, 2022","2022-07-02",3.932523906736865
+2923300,"65","Education and Health Services","2022-08","August, 2022","2022-08-02",4.1246660730187
+2948800,"65","Education and Health Services","2022-09","September, 2022","2022-09-02",4.861135805981295
+3007800,"65","Education and Health Services","2022-10","October, 2022","2022-10-02",4.7174738014831314
+3029700,"65","Education and Health Services","2022-11","November, 2022","2022-11-02",4.931943338066706
+3027600,"65","Education and Health Services","2022-12","December, 2022","2022-12-02",4.782999930781477
+3007400,"65","Education and Health Services","2023-01","January, 2023","2023-01-02",5.570962193281146
+3040900,"65","Education and Health Services","2023-02","February, 2023","2023-02-02",5.4732752939544245
+1917500,"70","Leisure and Hospitality","2018-01","January, 2018","2018-01-02",2.3157782402219733
+1945000,"70","Leisure and Hospitality","2018-02","February, 2018","2018-02-02",2.476290832455216
+1962700,"70","Leisure and Hospitality","2018-03","March, 2018","2018-03-02",2.0114345114345116
+1985800,"70","Leisure and Hospitality","2018-04","April, 2018","2018-04-02",2.0399773906787937
+2004100,"70","Leisure and Hospitality","2018-05","May, 2018","2018-05-02",1.8291753467811596
+2020900,"70","Leisure and Hospitality","2018-06","June, 2018","2018-06-02",1.5833919774806475
+2029200,"70","Leisure and Hospitality","2018-07","July, 2018","2018-07-02",1.8879293030729063
+2028300,"70","Leisure and Hospitality","2018-08","August, 2018","2018-08-02",1.9041398713826367
+2004300,"70","Leisure and Hospitality","2018-09","September, 2018","2018-09-02",1.974052403968456
+2002400,"70","Leisure and Hospitality","2018-10","October, 2018","2018-10-02",1.8566559845363446
+1995800,"70","Leisure and Hospitality","2018-11","November, 2018","2018-11-02",1.9722051910893112
+2004000,"70","Leisure and Hospitality","2018-12","December, 2018","2018-12-02",2.3493360572012256
+1961700,"70","Leisure and Hospitality","2019-01","January, 2019","2019-01-02",2.305084745762712
+1988000,"70","Leisure and Hospitality","2019-02","February, 2019","2019-02-02",2.210796915167095
+2009100,"70","Leisure and Hospitality","2019-03","March, 2019","2019-03-02",2.3640902837927342
+2030900,"70","Leisure and Hospitality","2019-04","April, 2019","2019-04-02",2.2711249874106154
+2048200,"70","Leisure and Hospitality","2019-05","May, 2019","2019-05-02",2.2004889975550124
+2066200,"70","Leisure and Hospitality","2019-06","June, 2019","2019-06-02",2.241575535652432
+2069800,"70","Leisure and Hospitality","2019-07","July, 2019","2019-07-02",2.000788488074118
+2064700,"70","Leisure and Hospitality","2019-08","August, 2019","2019-08-02",1.794606320564019
+2043400,"70","Leisure and Hospitality","2019-09","September, 2019","2019-09-02",1.9508057675996608
+2046400,"70","Leisure and Hospitality","2019-10","October, 2019","2019-10-02",2.1973631642029567
+2041500,"70","Leisure and Hospitality","2019-11","November, 2019","2019-11-02",2.2898085980559175
+2041200,"70","Leisure and Hospitality","2019-12","December, 2019","2019-12-02",1.8562874251497008
+2001300,"70","Leisure and Hospitality","2020-01","January, 2020","2020-01-02",2.018657287046949
+2025900,"70","Leisure and Hospitality","2020-02","February, 2020","2020-02-02",1.9064386317907447
+1966400,"70","Leisure and Hospitality","2020-03","March, 2020","2020-03-02",-2.1253297496391417
+1071000,"70","Leisure and Hospitality","2020-04","April, 2020","2020-04-02",-47.264759466246495
+1128400,"70","Leisure and Hospitality","2020-05","May, 2020","2020-05-02",-44.90772385509227
+1336700,"70","Leisure and Hospitality","2020-06","June, 2020","2020-06-02",-35.30635950053238
+1337400,"70","Leisure and Hospitality","2020-07","July, 2020","2020-07-02",-35.38506135858537
+1324100,"70","Leisure and Hospitality","2020-08","August, 2020","2020-08-02",-35.86961786215915
+1359000,"70","Leisure and Hospitality","2020-09","September, 2020","2020-09-02",-33.49319761182343
+1432200,"70","Leisure and Hospitality","2020-10","October, 2020","2020-10-02",-30.01368256450352
+1454200,"70","Leisure and Hospitality","2020-11","November, 2020","2020-11-02",-28.768062698995838
+1344500,"70","Leisure and Hospitality","2020-12","December, 2020","2020-12-02",-34.13188320595728
+1209700,"70","Leisure and Hospitality","2021-01","January, 2021","2021-01-02",-39.5542897116874
+1359700,"70","Leisure and Hospitality","2021-02","February, 2021","2021-02-02",-32.884150254208
+1431400,"70","Leisure and Hospitality","2021-03","March, 2021","2021-03-02",-27.20707892595606
+1552400,"70","Leisure and Hospitality","2021-04","April, 2021","2021-04-02",44.94864612511672
+1618200,"70","Leisure and Hospitality","2021-05","May, 2021","2021-05-02",43.40659340659341
+1686800,"70","Leisure and Hospitality","2021-06","June, 2021","2021-06-02",26.19136679883295
+1768000,"70","Leisure and Hospitality","2021-07","July, 2021","2021-07-02",32.196799760729775
+1790900,"70","Leisure and Hospitality","2021-08","August, 2021","2021-08-02",35.2541348840722
+1782900,"70","Leisure and Hospitality","2021-09","September, 2021","2021-09-02",31.192052980132452
+1823700,"70","Leisure and Hospitality","2021-10","October, 2021","2021-10-02",27.335567658148303
+1829200,"70","Leisure and Hospitality","2021-11","November, 2021","2021-11-02",25.787374501444095
+1843600,"70","Leisure and Hospitality","2021-12","December, 2021","2021-12-02",37.12160654518408
+1784600,"70","Leisure and Hospitality","2022-01","January, 2022","2022-01-02",47.524179548648426
+1836100,"70","Leisure and Hospitality","2022-02","February, 2022","2022-02-02",35.03714054570861
+1867800,"70","Leisure and Hospitality","2022-03","March, 2022","2022-03-02",30.487634483722232
+1912300,"70","Leisure and Hospitality","2022-04","April, 2022","2022-04-02",23.183457871682556
+1940200,"70","Leisure and Hospitality","2022-05","May, 2022","2022-05-02",19.89865282412557
+1966600,"70","Leisure and Hospitality","2022-06","June, 2022","2022-06-02",16.587621531894712
+1974800,"70","Leisure and Hospitality","2022-07","July, 2022","2022-07-02",11.69683257918552
+1981700,"70","Leisure and Hospitality","2022-08","August, 2022","2022-08-02",10.653861187112625
+1959800,"70","Leisure and Hospitality","2022-09","September, 2022","2022-09-02",9.922037130517696
+1987800,"70","Leisure and Hospitality","2022-10","October, 2022","2022-10-02",8.998190491857214
+1985200,"70","Leisure and Hospitality","2022-11","November, 2022","2022-11-02",8.528318390553247
+1981900,"70","Leisure and Hospitality","2022-12","December, 2022","2022-12-02",7.501627251030592
+1946500,"70","Leisure and Hospitality","2023-01","January, 2023","2023-01-02",9.07206096604281
+1982700,"70","Leisure and Hospitality","2023-02","February, 2023","2023-02-02",7.984314579815914
+558300,"80","Other Services","2018-01","January, 2018","2018-01-02",2.196595277320154
+565300,"80","Other Services","2018-02","February, 2018","2018-02-02",2.2057494124028203
+566400,"80","Other Services","2018-03","March, 2018","2018-03-02",1.5053763440860215
+572900,"80","Other Services","2018-04","April, 2018","2018-04-02",1.4520984593589517
+575400,"80","Other Services","2018-05","May, 2018","2018-05-02",1.2315270935960592
+577600,"80","Other Services","2018-06","June, 2018","2018-06-02",1.1735855666491504
+574800,"80","Other Services","2018-07","July, 2018","2018-07-02",1.179369829255413
+574200,"80","Other Services","2018-08","August, 2018","2018-08-02",1.0915492957746478
+572300,"80","Other Services","2018-09","September, 2018","2018-09-02",0.6684256816182937
+579200,"80","Other Services","2018-10","October, 2018","2018-10-02",1.7568517217146873
+575500,"80","Other Services","2018-11","November, 2018","2018-11-02",1.5349329569513057
+571800,"80","Other Services","2018-12","December, 2018","2018-12-02",1.0783100583348064
+561700,"80","Other Services","2019-01","January, 2019","2019-01-02",0.6089915815869604
+568600,"80","Other Services","2019-02","February, 2019","2019-02-02",0.5837608349548912
+571000,"80","Other Services","2019-03","March, 2019","2019-03-02",0.8121468926553672
+576700,"80","Other Services","2019-04","April, 2019","2019-04-02",0.6632920230406703
+580000,"80","Other Services","2019-05","May, 2019","2019-05-02",0.7994438651372958
+580800,"80","Other Services","2019-06","June, 2019","2019-06-02",0.554016620498615
+580600,"80","Other Services","2019-07","July, 2019","2019-07-02",1.0090466249130132
+580700,"80","Other Services","2019-08","August, 2019","2019-08-02",1.1320097526994077
+578000,"80","Other Services","2019-09","September, 2019","2019-09-02",0.9959811287786126
+581100,"80","Other Services","2019-10","October, 2019","2019-10-02",0.3280386740331492
+580900,"80","Other Services","2019-11","November, 2019","2019-11-02",0.9383145091225021
+578200,"80","Other Services","2019-12","December, 2019","2019-12-02",1.1192724728926198
+579100,"80","Other Services","2020-01","January, 2020","2020-01-02",3.097739006587146
+589200,"80","Other Services","2020-02","February, 2020","2020-02-02",3.6229335209285964
+575600,"80","Other Services","2020-03","March, 2020","2020-03-02",0.8056042031523643
+396100,"80","Other Services","2020-04","April, 2020","2020-04-02",-31.31610889543957
+412800,"80","Other Services","2020-05","May, 2020","2020-05-02",-28.827586206896548
+440800,"80","Other Services","2020-06","June, 2020","2020-06-02",-24.104683195592287
+451400,"80","Other Services","2020-07","July, 2020","2020-07-02",-22.252841887702377
+426400,"80","Other Services","2020-08","August, 2020","2020-08-02",-26.571379369726195
+448000,"80","Other Services","2020-09","September, 2020","2020-09-02",-22.491349480968857
+477600,"80","Other Services","2020-10","October, 2020","2020-10-02",-17.811048012390295
+480500,"80","Other Services","2020-11","November, 2020","2020-11-02",-17.28352556378034
+454500,"80","Other Services","2020-12","December, 2020","2020-12-02",-21.393981321342096
+425400,"80","Other Services","2021-01","January, 2021","2021-01-02",-26.54118459678812
+464400,"80","Other Services","2021-02","February, 2021","2021-02-02",-21.181262729124235
+474300,"80","Other Services","2021-03","March, 2021","2021-03-02",-17.599027102154274
+495600,"80","Other Services","2021-04","April, 2021","2021-04-02",25.11991921232012
+504600,"80","Other Services","2021-05","May, 2021","2021-05-02",22.238372093023255
+511000,"80","Other Services","2021-06","June, 2021","2021-06-02",15.925589836660617
+523600,"80","Other Services","2021-07","July, 2021","2021-07-02",15.99468320779796
+525000,"80","Other Services","2021-08","August, 2021","2021-08-02",23.123827392120074
+523900,"80","Other Services","2021-09","September, 2021","2021-09-02",16.94196428571429
+542800,"80","Other Services","2021-10","October, 2021","2021-10-02",13.651591289782244
+543900,"80","Other Services","2021-11","November, 2021","2021-11-02",13.194588969823101
+544600,"80","Other Services","2021-12","December, 2021","2021-12-02",19.823982398239824
+536900,"80","Other Services","2022-01","January, 2022","2022-01-02",26.21062529384109
+548700,"80","Other Services","2022-02","February, 2022","2022-02-02",18.152454780361758
+551900,"80","Other Services","2022-03","March, 2022","2022-03-02",16.360952983343875
+562200,"80","Other Services","2022-04","April, 2022","2022-04-02",13.438256658595641
+566000,"80","Other Services","2022-05","May, 2022","2022-05-02",12.168053904082441
+568500,"80","Other Services","2022-06","June, 2022","2022-06-02",11.252446183953033
+567300,"80","Other Services","2022-07","July, 2022","2022-07-02",8.346065699006875
+567900,"80","Other Services","2022-08","August, 2022","2022-08-02",8.17142857142857
+568900,"80","Other Services","2022-09","September, 2022","2022-09-02",8.589425462874594
+573800,"80","Other Services","2022-10","October, 2022","2022-10-02",5.711127487103906
+574200,"80","Other Services","2022-11","November, 2022","2022-11-02",5.570876999448428
+573500,"80","Other Services","2022-12","December, 2022","2022-12-02",5.306647080426001
+563600,"80","Other Services","2023-01","January, 2023","2023-01-02",4.972993108586329
+571300,"80","Other Services","2023-02","February, 2023","2023-02-02",4.118826316748678
+2574000,"90","Government","2018-01","January, 2018","2018-01-02",1.1991350501277767
+2594700,"90","Government","2018-02","February, 2018","2018-02-02",1.1460647877441235
+2614700,"90","Government","2018-03","March, 2018","2018-03-02",1.105912377711612
+2621500,"90","Government","2018-04","April, 2018","2018-04-02",1.2396694214876034
+2630700,"90","Government","2018-05","May, 2018","2018-05-02",1.0525102754196598
+2626200,"90","Government","2018-06","June, 2018","2018-06-02",1.2413261372397841
+2429300,"90","Government","2018-07","July, 2018","2018-07-02",0.7130715973632934
+2465800,"90","Government","2018-08","August, 2018","2018-08-02",1.2981677758606525
+2548700,"90","Government","2018-09","September, 2018","2018-09-02",1.0106214331008243
+2611800,"90","Government","2018-10","October, 2018","2018-10-02",0.8416988416988416
+2634100,"90","Government","2018-11","November, 2018","2018-11-02",0.9504464798988234
+2627500,"90","Government","2018-12","December, 2018","2018-12-02",1.0499192369817707
+2594600,"90","Government","2019-01","January, 2019","2019-01-02",0.8003108003108004
+2614700,"90","Government","2019-02","February, 2019","2019-02-02",0.770802019501291
+2636500,"90","Government","2019-03","March, 2019","2019-03-02",0.8337476574750449
+2640100,"90","Government","2019-04","April, 2019","2019-04-02",0.7095174518405493
+2650100,"90","Government","2019-05","May, 2019","2019-05-02",0.7374463070665602
+2637000,"90","Government","2019-06","June, 2019","2019-06-02",0.411240575736806
+2466300,"90","Government","2019-07","July, 2019","2019-07-02",1.5230724900177006
+2491000,"90","Government","2019-08","August, 2019","2019-08-02",1.0219806959201883
+2554500,"90","Government","2019-09","September, 2019","2019-09-02",0.22756699493859614
+2618300,"90","Government","2019-10","October, 2019","2019-10-02",0.24887051075886363
+2640300,"90","Government","2019-11","November, 2019","2019-11-02",0.23537451121825292
+2625400,"90","Government","2019-12","December, 2019","2019-12-02",-0.07992388201712655
+2620300,"90","Government","2020-01","January, 2020","2020-01-02",0.990518769752563
+2635500,"90","Government","2020-02","February, 2020","2020-02-02",0.7955023520862813
+2651400,"90","Government","2020-03","March, 2020","2020-03-02",0.565143182249194
+2562000,"90","Government","2020-04","April, 2020","2020-04-02",-2.9582212794969887
+2479300,"90","Government","2020-05","May, 2020","2020-05-02",-6.445039809818498
+2454600,"90","Government","2020-06","June, 2020","2020-06-02",-6.9169510807736065
+2313300,"90","Government","2020-07","July, 2020","2020-07-02",-6.203624863155334
+2387100,"90","Government","2020-08","August, 2020","2020-08-02",-4.171015656362907
+2442400,"90","Government","2020-09","September, 2020","2020-09-02",-4.388334311998434
+2461000,"90","Government","2020-10","October, 2020","2020-10-02",-6.007714929534431
+2462200,"90","Government","2020-11","November, 2020","2020-11-02",-6.745445593303791
+2450000,"90","Government","2020-12","December, 2020","2020-12-02",-6.680886722023311
+2427600,"90","Government","2021-01","January, 2021","2021-01-02",-7.354119757279701
+2434700,"90","Government","2021-02","February, 2021","2021-02-02",-7.6190476190476195
+2454500,"90","Government","2021-03","March, 2021","2021-03-02",-7.426265369238892
+2474800,"90","Government","2021-04","April, 2021","2021-04-02",-3.4035909445745514
+2494900,"90","Government","2021-05","May, 2021","2021-05-02",0.6292098576211027
+2493000,"90","Government","2021-06","June, 2021","2021-06-02",1.5644096797848936
+2365400,"90","Government","2021-07","July, 2021","2021-07-02",2.2521938356460467
+2411200,"90","Government","2021-08","August, 2021","2021-08-02",1.0095932302794186
+2484700,"90","Government","2021-09","September, 2021","2021-09-02",1.7319030461840812
+2522500,"90","Government","2021-10","October, 2021","2021-10-02",2.498984152783421
+2539200,"90","Government","2021-11","November, 2021","2021-11-02",3.127284542279263
+2531800,"90","Government","2021-12","December, 2021","2021-12-02",3.3387755102040817
+2509900,"90","Government","2022-01","January, 2022","2022-01-02",3.3901796012522656
+2520700,"90","Government","2022-02","February, 2022","2022-02-02",3.532262701770238
+2546500,"90","Government","2022-03","March, 2022","2022-03-02",3.7482175595844365
+2555400,"90","Government","2022-04","April, 2022","2022-04-02",3.256828834653305
+2571900,"90","Government","2022-05","May, 2022","2022-05-02",3.0862960439296163
+2565900,"90","Government","2022-06","June, 2022","2022-06-02",2.9241877256317688
+2410600,"90","Government","2022-07","July, 2022","2022-07-02",1.9108818804430538
+2445400,"90","Government","2022-08","August, 2022","2022-08-02",1.4183808891838088
+2515600,"90","Government","2022-09","September, 2022","2022-09-02",1.2436108987000443
+2569900,"90","Government","2022-10","October, 2022","2022-10-02",1.8790882061446978
+2594100,"90","Government","2022-11","November, 2022","2022-11-02",2.1620982986767485
+2542500,"90","Government","2022-12","December, 2022","2022-12-02",0.42262421992258475
+2556500,"90","Government","2023-01","January, 2023","2023-01-02",1.8566476752061836
+2574200,"90","Government","2023-02","February, 2023","2023-02-02",2.122426310151942

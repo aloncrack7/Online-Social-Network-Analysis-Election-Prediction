@@ -1,0 +1,91 @@
+ID Group,Group,ID Year,Year,Commute Means,Commute Means Moe,Geography,ID Geography,Slug Geography,share
+0,"Drove Alone",2022,"2022",247617,4476,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.6373979679829902
+1,"Carpooled",2022,"2022",25447,1748.7409756736415,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.06550384703499013
+2,"Public Transit",2022,"2022",8395,808.1429329023425,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.02160980845910096
+3,"Taxi",2022,"2022",799,392,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0020567286430996624
+4,"Motorcycle",2022,"2022",2216,477.99999999999994,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.005704268677232606
+5,"Bicycle",2022,"2022",3976,525,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.010234734774673664
+6,"Walked",2022,"2022",15606,1297,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.04017184881628703
+7,"Other",2022,"2022",4221,655,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.010865396248465177
+8,"Worked At Home",2022,"2022",80204,3007,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.20645539936316062
+0,"Drove Alone",2021,"2021",265214,4056.9999999999995,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7732028792415315
+1,"Carpooled",2021,"2021",28218,1557.4382812811557,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.08226654266531004
+2,"Public Transit",2021,"2021",3381,539.1011036902077,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.009856941695067447
+3,"Taxi",2021,"2021",99,67,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0002886238473267309
+4,"Motorcycle",2021,"2021",1110,263,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.003236085560936074
+5,"Bicycle",2021,"2021",890,276,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.002594699233543339
+6,"Walked",2021,"2021",4913,640,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.014323322847638677
+7,"Other",2021,"2021",3259,512,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.009501263822604203
+8,"Worked At Home",2021,"2021",35923,2017,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.10472964108604198
+0,"Drove Alone",2020,"2020",271067,4167,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7871045486882413
+1,"Carpooled",2020,"2020",29219,1417.9933004073043,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.08484399727049668
+2,"Public Transit",2020,"2020",3774,571.4297857129955,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.010958665447101355
+3,"Taxi",2020,"2020",95,62,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0002758540586843213
+4,"Motorcycle",2020,"2020",1346,289,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.003908416452516805
+5,"Bicycle",2020,"2020",970,258,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0028166151255135967
+6,"Walked",2020,"2020",5158,588,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.014977423523091888
+7,"Other",2020,"2020",4193,521,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.012175327032245888
+8,"Worked At Home",2020,"2020",28563,1871,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0829391524021081
+0,"Drove Alone",2019,"2019",278782,3207,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.799647765115552
+1,"Carpooled",2019,"2019",31352,1491.224664495595,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.08992889329979262
+2,"Public Transit",2019,"2019",4370,583.9443466632758,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.012534743037767726
+3,"Taxi",2019,"2019",107,61,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00030691476087898095
+4,"Motorcycle",2019,"2019",1641,293,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.004706982454228109
+5,"Bicycle",2019,"2019",1066,287,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0030576741597849876
+6,"Walked",2019,"2019",5571,636,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.015979646101465447
+7,"Other",2019,"2019",4352,596,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.012483112517246028
+8,"Worked At Home",2019,"2019",21390,993.0000000000001,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.06135426855328413
+0,"Drove Alone",2018,"2018",276630,3071,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.8010784137703361
+1,"Carpooled",2018,"2018",31741,1529.4711504307625,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.09191710924875914
+2,"Public Transit",2018,"2018",4284,536.8556603035867,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.012405812545971586
+3,"Taxi",2018,"2018",40,39,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00011583391732933321
+4,"Motorcycle",2018,"2018",1861,377,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.005389173003747227
+5,"Bicycle",2018,"2018",1002,254,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0029016396290997967
+6,"Walked",2018,"2018",5339,593,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.015460932115532748
+7,"Other",2018,"2018",3841,624,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.01112295191154922
+8,"Worked At Home",2018,"2018",20584,1180,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.05960813385767486
+0,"Drove Alone",2017,"2017",269463,3513,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.792776068114552
+1,"Carpooled",2017,"2017",33411,1568.4103417154581,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.09829713619968343
+2,"Public Transit",2017,"2017",4498,543.0939145304428,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.013233381779239654
+3,"Taxi",2017,"2017",37,35,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.000108856186267645
+4,"Motorcycle",2017,"2017",1813,299,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.005333953127114605
+5,"Bicycle",2017,"2017",1018,253,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.002995016151904395
+6,"Walked",2017,"2017",5331,661,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.015684116999805823
+7,"Other",2017,"2017",3516,515,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.01034427975451459
+8,"Worked At Home",2017,"2017",20811,1021,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.06122719168691784
+0,"Drove Alone",2016,"2016",259778,3243,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7909041366145341
+1,"Carpooled",2016,"2016",32308,1685.9744956552577,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.09836295161923783
+2,"Public Transit",2016,"2016",4455,509.0127699773356,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.013563419260359803
+3,"Taxi",2016,"2016",39,36,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00011873700362604541
+4,"Motorcycle",2016,"2016",2012,326,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.006125611571682138
+5,"Bicycle",2016,"2016",954,261,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0029044897810063417
+6,"Walked",2016,"2016",5461,505,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.01662622504620087
+7,"Other",2016,"2016",3084,391,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00938935690212113
+8,"Worked At Home",2016,"2016",20366,1189,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.06200507220123182
+0,"Drove Alone",2015,"2015",253400,2821,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7955569369488162
+1,"Carpooled",2015,"2015",32405,1663.9696511655493,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.10173647411928331
+2,"Public Transit",2015,"2015",4190,529.4497143261104,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.013154631277882953
+3,"Taxi",2015,"2015",33,35,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00010360449455134545
+4,"Motorcycle",2015,"2015",2130,406,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00668719919376866
+5,"Bicycle",2015,"2015",1095,292,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.003437785501021917
+6,"Walked",2015,"2015",5109,598,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.016039859474631026
+7,"Other",2015,"2015",2019,257,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00633871134845959
+8,"Worked At Home",2015,"2015",18138,952,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.05694479764158496
+0,"Drove Alone",2014,"2014",245936,3527,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7983820440652766
+1,"Carpooled",2014,"2014",31943,1720.228473197674,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.10369656184363871
+2,"Public Transit",2014,"2014",3467,498.0070280628577,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.011254922202419792
+3,"Taxi",2014,"2014",37,32,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00012011310109302922
+4,"Motorcycle",2014,"2014",1884,398,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0061160292556558665
+5,"Bicycle",2014,"2014",1187,348,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.003853358135065559
+6,"Walked",2014,"2014",4731,558,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.015358245439760033
+7,"Other",2014,"2014",1764,336,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.005726473252110907
+8,"Worked At Home",2014,"2014",17094,863,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0554922527049795
+0,"Drove Alone",2013,"2013",238579,2669,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.7878730838072215
+1,"Carpooled",2013,"2013",34060,1687.9135048929493,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.1124782870012615
+2,"Public Transit",2013,"2013",3928,577.9186794004845,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.012971659170315772
+3,"Taxi",2013,"2013",29,27,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.00009576835945497896
+4,"Motorcycle",2013,"2013",1614,375,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.005330004557252967
+5,"Bicycle",2013,"2013",1071,311,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.0035368245853890506
+6,"Walked",2013,"2013",4889,526,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.01614522446122042
+7,"Other",2013,"2013",1970,365,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.006505643728493399
+8,"Worked At Home",2013,"2013",16674,1017.0000000000001,"Congressional District 50, CA","50000US0650","congressional-district-50-ca",0.05506350432939032
