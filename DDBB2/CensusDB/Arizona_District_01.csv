@@ -1,0 +1,335 @@
+Topic,Subject,Title,"District 01 Estimate","District 01 MOE"
+People,"Sex and Age","Total population","804,256","(+/-22,081)"
+People,"Sex and Age",Male,"393,913","(+/-13,714)"
+People,"Sex and Age",Female,"410,343","(+/-11,988)"
+People,"Sex and Age","Under 5 years","35,970","(+/-3,494)"
+People,"Sex and Age","5 to 9 years","40,870","(+/-4,879)"
+People,"Sex and Age","10 to 14 years","36,827","(+/-5,151)"
+People,"Sex and Age","15 to 19 years","41,206","(+/-4,487)"
+People,"Sex and Age","20 to 24 years","43,410","(+/-6,012)"
+People,"Sex and Age","25 to 34 years","121,538","(+/-7,776)"
+People,"Sex and Age","35 to 44 years","105,226","(+/-8,153)"
+People,"Sex and Age","45 to 54 years","95,090","(+/-5,886)"
+People,"Sex and Age","55 to 59 years","53,418","(+/-4,364)"
+People,"Sex and Age","60 to 64 years","62,153","(+/-4,892)"
+People,"Sex and Age","65 to 74 years","94,932","(+/-5,111)"
+People,"Sex and Age","75 to 84 years","54,630","(+/-3,808)"
+People,"Sex and Age","85 years and over","18,986","(+/-2,151)"
+People,"Sex and Age","Median age (years)",42.5,(+/-1.3)
+People,"Sex and Age","18 years and over","662,683","(+/-16,025)"
+People,"Sex and Age","65 years and over","168,548","(+/-7,081)"
+People,Race,"Total population","804,256","(+/-22,081)"
+People,Race,"One race","707,238","(+/-18,763)"
+People,Race,White,"574,043","(+/-16,223)"
+People,Race,"Black or African American","31,910","(+/-7,619)"
+People,Race,"American Indian and Alaska Native","14,310","(+/-3,262)"
+People,Race,Asian,"40,755","(+/-6,042)"
+People,Race,"Native Hawaiian and Other Pacific Islander","1,019",(+/-755)
+People,Race,"Some other race","45,201","(+/-9,237)"
+People,Race,"Two or more races","97,018","(+/-10,321)"
+People,"Hispanic or Latino and Race","Total population","804,256","(+/-22,081)"
+People,"Hispanic or Latino and Race","Hispanic or Latino (of any race)","135,776","(+/-13,797)"
+People,"Hispanic or Latino and Race",Mexican,"107,389","(+/-12,452)"
+People,"Hispanic or Latino and Race","Puerto Rican","4,191","(+/-1,890)"
+People,"Hispanic or Latino and Race",Cuban,"2,998","(+/-1,827)"
+People,"Hispanic or Latino and Race","Other Hispanic or Latino","21,198","(+/-4,591)"
+People,"Hispanic or Latino and Race","Not Hispanic or Latino","668,480","(+/-18,004)"
+People,"Place of Birth","Total population","804,256","(+/-22,081)"
+People,"Place of Birth",Native,"700,868","(+/-20,504)"
+People,"Place of Birth","Born in United States","688,402","(+/-19,958)"
+People,"Place of Birth","State of residence","255,109","(+/-13,758)"
+People,"Place of Birth","Different state","433,293","(+/-14,583)"
+People,"Place of Birth","Born in Puerto Rico, U.S. Island areas, or born abroad to American parent(s)","12,466","(+/-2,937)"
+People,"Place of Birth","Foreign born","103,388","(+/-10,362)"
+People,Ancestry,"Total population","804,256","(+/-22,081)"
+People,Ancestry,American,"27,707","(+/-4,168)"
+People,Ancestry,Arab,"5,970","(+/-1,974)"
+People,Ancestry,Czech,"5,706","(+/-2,325)"
+People,Ancestry,Danish,"2,774",(+/-821)
+People,Ancestry,Dutch,"9,399","(+/-2,241)"
+People,Ancestry,English,"87,556","(+/-6,610)"
+People,Ancestry,"French (except Basque)","19,945","(+/-3,584)"
+People,Ancestry,"French Canadian","3,897","(+/-1,513)"
+People,Ancestry,German,"126,816","(+/-7,934)"
+People,Ancestry,Greek,"4,820","(+/-2,165)"
+People,Ancestry,Hungarian,"4,385","(+/-1,196)"
+People,Ancestry,Irish,"90,557","(+/-7,036)"
+People,Ancestry,Italian,"52,654","(+/-5,109)"
+People,Ancestry,Lithuanian,"1,577",(+/-803)
+People,Ancestry,Norwegian,"19,326","(+/-3,469)"
+People,Ancestry,Polish,"27,677","(+/-3,246)"
+People,Ancestry,Portuguese,"2,428",(+/-916)
+People,Ancestry,Russian,"8,746","(+/-2,041)"
+People,Ancestry,Scotch-Irish,"7,668","(+/-2,022)"
+People,Ancestry,Scottish,"18,348","(+/-3,253)"
+People,Ancestry,Slovak,"2,001","(+/-1,264)"
+People,Ancestry,"Subsaharan African","8,972","(+/-5,373)"
+People,Ancestry,Swedish,"15,014","(+/-3,498)"
+People,Ancestry,Swiss,"3,250","(+/-1,204)"
+People,Ancestry,Ukrainian,"4,751","(+/-1,708)"
+People,Ancestry,Welsh,"5,314","(+/-1,539)"
+People,Ancestry,"West Indian (excluding Hispanic origin groups)","2,783","(+/-1,958)"
+People,"Veteran Status","Civilian population 18 years and over","662,351","(+/-16,079)"
+People,"Veteran Status","Civilian veterans","35,556","(+/-2,792)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","Total civilian noninstitutionalized population","799,769","(+/-22,154)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","With a disability","85,828","(+/-5,638)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","Under 18 years","141,301","(+/-11,962)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","With a disability","5,834","(+/-1,699)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","18 to 64 years","493,336","(+/-15,017)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","With a disability","37,945","(+/-3,783)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","65 years and over","165,132","(+/-7,074)"
+People,"Disability Status of the Civilian Noninstitutionalized Population","With a disability","42,049","(+/-3,132)"
+People,"Residence 1 Year Ago","Population 1 year and over","797,496","(+/-21,989)"
+People,"Residence 1 Year Ago","Same house","675,183","(+/-19,290)"
+People,"Residence 1 Year Ago","Different house (in the U.S. or abroad)","122,313","(+/-12,062)"
+People,"Residence 1 Year Ago","Different house in the U.S.","113,034","(+/-11,094)"
+People,"Residence 1 Year Ago","Same county","82,012","(+/-9,687)"
+People,"Residence 1 Year Ago","Different county","31,022","(+/-4,677)"
+People,"Residence 1 Year Ago","Same state","5,232","(+/-1,866)"
+People,"Residence 1 Year Ago","Different state","25,790","(+/-4,047)"
+People,"Residence 1 Year Ago",Abroad,"9,279","(+/-5,233)"
+Workers,"Employment Status","Population 16 years and over","681,813","(+/-16,843)"
+Workers,"Employment Status","In labor force","446,087","(+/-14,756)"
+Workers,"Employment Status","Civilian labor force","445,755","(+/-14,801)"
+Workers,"Employment Status",Employed,"429,770","(+/-14,550)"
+Workers,"Employment Status",Unemployed,"15,985","(+/-2,629)"
+Workers,"Employment Status","Armed Forces",332,(+/-366)
+Workers,"Employment Status","Not in labor force","235,726","(+/-9,317)"
+Workers,"Employment Status","Civilian labor force","445,755","(+/-14,801)"
+Workers,"Employment Status","Unemployment Rate",3.6,(+/-0.6)
+Workers,"Commuting to Work","Workers 16 years and over","424,740","(+/-14,728)"
+Workers,"Commuting to Work","Car, truck, or van -- drove alone","270,451","(+/-11,510)"
+Workers,"Commuting to Work","Car, truck, or van -- carpooled","30,053","(+/-4,900)"
+Workers,"Commuting to Work","Public transportation (excluding taxicab)","6,335","(+/-2,047)"
+Workers,"Commuting to Work",Walked,"5,577","(+/-1,769)"
+Workers,"Commuting to Work","Other means","8,798","(+/-1,853)"
+Workers,"Commuting to Work","Worked from home","103,526","(+/-5,767)"
+Workers,"Commuting to Work","Mean travel time to work (minutes)",24.0,(+/-0.9)
+Workers,Occupation,"Civilian employed population 16 years and over","429,770","(+/-14,550)"
+Workers,Occupation,"Management, business, science, and arts occupations","227,081","(+/-8,450)"
+Workers,Occupation,"Service occupations","55,360","(+/-4,681)"
+Workers,Occupation,"Sales and office occupations","93,403","(+/-5,544)"
+Workers,Occupation,"Natural resources, construction, and maintenance occupations","21,956","(+/-3,435)"
+Workers,Occupation,"Production, transportation, and material moving occupations","31,970","(+/-5,282)"
+Workers,Industry,"Civilian employed population 16 years and over","429,770","(+/-14,550)"
+Workers,Industry,"Agriculture, forestry, fishing and hunting, and mining","2,314","(+/-1,275)"
+Workers,Industry,Construction,"29,293","(+/-4,578)"
+Workers,Industry,Manufacturing,"25,949","(+/-3,161)"
+Workers,Industry,"Wholesale trade","7,931","(+/-1,888)"
+Workers,Industry,"Retail trade","47,480","(+/-4,655)"
+Workers,Industry,"Transportation and warehousing, and utilities","19,930","(+/-3,009)"
+Workers,Industry,Information,"11,678","(+/-2,826)"
+Workers,Industry,"Finance and insurance, and real estate and rental and leasing","58,661","(+/-5,498)"
+Workers,Industry,"Professional, scientific, and management, and administrative and waste management services","70,881","(+/-4,535)"
+Workers,Industry,"Educational services, and health care and social assistance","89,462","(+/-6,411)"
+Workers,Industry,"Arts, entertainment, and recreation, and accommodation and food services","36,716","(+/-3,835)"
+Workers,Industry,"Other services, except public administration","16,638","(+/-3,105)"
+Workers,Industry,"Public administration","12,837","(+/-2,200)"
+Workers,"Class of Worker","Civilian employed population 16 years and over","429,770","(+/-14,550)"
+Workers,"Class of Worker","Private wage and salary workers","359,287","(+/-12,854)"
+Workers,"Class of Worker","Government workers","40,445","(+/-4,487)"
+Workers,"Class of Worker","Self-employed in own not incorporated business workers","28,683","(+/-3,942)"
+Workers,"Class of Worker","Unpaid family workers","1,355",(+/-778)
+Housing,"Housing Occupancy","Total housing units","412,711","(+/-8,255)"
+Housing,"Housing Occupancy","Occupied housing units","363,896","(+/-8,232)"
+Housing,"Housing Occupancy","Vacant housing units","48,815","(+/-4,228)"
+Housing,"Housing Occupancy","Homeowner vacancy rate",1.3,(+/-0.6)
+Housing,"Housing Occupancy","Rental vacancy rate",8.2,(+/-1.6)
+Housing,"Housing Tenure","Occupied housing units","363,896","(+/-8,232)"
+Housing,"Housing Tenure",Owner-occupied,"231,286","(+/-6,513)"
+Housing,"Housing Tenure",Renter-occupied,"132,610","(+/-6,821)"
+Housing,"Housing Tenure","Average household size of owner-occupied unit",2.29,(+/-0.05)
+Housing,"Housing Tenure","Average household size of renter-occupied unit",2.01,(+/-0.08)
+Housing,"Year Householder Moved into Unit","Occupied housing units","363,896","(+/-8,232)"
+Housing,"Year Householder Moved into Unit","Moved in 2021 or later","113,349","(+/-6,374)"
+Housing,"Year Householder Moved into Unit","Moved in 2018 to 2020","74,015","(+/-5,129)"
+Housing,"Year Householder Moved into Unit","Moved in 2010 to 2017","82,748","(+/-4,376)"
+Housing,"Year Householder Moved into Unit","Moved in 2000 to 2009","45,417","(+/-3,558)"
+Housing,"Year Householder Moved into Unit","Moved in 1990 to 1999","32,045","(+/-2,908)"
+Housing,"Year Householder Moved into Unit","Moved in 1989 and earlier","16,322","(+/-1,721)"
+Housing,Value,"Owner-occupied units","231,286","(+/-6,513)"
+Housing,Value,"Less than $50,000","6,602","(+/-1,446)"
+Housing,Value,"$50,000 to $99,999","2,770","(+/-1,124)"
+Housing,Value,"$100,000 to $149,999","1,244",(+/-702)
+Housing,Value,"$150,000 to $199,999","1,969",(+/-787)
+Housing,Value,"$200,000 to $299,999","9,912","(+/-2,074)"
+Housing,Value,"$300,000 to $499,999","54,319","(+/-3,794)"
+Housing,Value,"$500,000 to $999,999","97,551","(+/-4,634)"
+Housing,Value,"$1,000,000 or more","56,919","(+/-3,481)"
+Housing,Value,"Median (dollars)","662,500","(+/-13,699)"
+Housing,"Mortgage Status","Owner-occupied units","231,286","(+/-6,513)"
+Housing,"Mortgage Status","Housing units with a mortgage","145,251","(+/-6,317)"
+Housing,"Mortgage Status","Housing units without a mortgage","86,035","(+/-4,348)"
+Housing,"Selected Monthly Owner Costs(SMOC)","Housing units with a mortgage","145,251","(+/-6,317)"
+Housing,"Selected Monthly Owner Costs(SMOC)","Less than $500","1,465",(+/-954)
+Housing,"Selected Monthly Owner Costs(SMOC)","$500 to $999","7,597","(+/-1,439)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$1,000 to $1,499","21,969","(+/-2,623)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$1,500 to $1,999","32,018","(+/-2,983)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$2,000 to $2,499","23,346","(+/-2,981)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$2,500 to $2,999","18,907","(+/-2,435)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$3,000 or more","39,949","(+/-4,063)"
+Housing,"Selected Monthly Owner Costs(SMOC)","Median (dollars)","2,205",(+/-68)
+Housing,"Selected Monthly Owner Costs(SMOC)","Housing units without a mortgage","86,035","(+/-4,348)"
+Housing,"Selected Monthly Owner Costs(SMOC)","Less than $250","3,341","(+/-1,052)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$250 to $399","10,849","(+/-1,649)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$400 to $599","21,848","(+/-2,457)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$600 to $799","19,206","(+/-2,437)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$800 to $999","11,063","(+/-2,011)"
+Housing,"Selected Monthly Owner Costs(SMOC)","$1,000 or more","19,728","(+/-2,109)"
+Housing,"Selected Monthly Owner Costs(SMOC)","Median (dollars)",661,(+/-22)
+Housing,"Gross Rent","Occupied units paying rent","129,007","(+/-6,750)"
+Housing,"Gross Rent","Less than $500","1,301",(+/-535)
+Housing,"Gross Rent","$500 to $999","8,824","(+/-1,804)"
+Housing,"Gross Rent","$1,000 to $1,499","25,820","(+/-3,243)"
+Housing,"Gross Rent","$1,500 to $1,999","43,239","(+/-4,383)"
+Housing,"Gross Rent","$2,000 to $2,499","26,374","(+/-3,211)"
+Housing,"Gross Rent","$2,500 to $2,999","12,070","(+/-2,454)"
+Housing,"Gross Rent","$3,000 or more","11,379","(+/-1,600)"
+Housing,"Gross Rent","Median (dollars)","1,830",(+/-35)
+Housing,"Gross Rent","No rent paid","3,603","(+/-1,033)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","Total households","363,896","(+/-8,232)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","Less than $10,000","14,685","(+/-2,042)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$10,000 to $14,999","6,477","(+/-1,693)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$15,000 to $24,999","15,298","(+/-2,034)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$25,000 to $34,999","21,916","(+/-3,637)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$35,000 to $49,999","33,585","(+/-3,897)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$50,000 to $74,999","57,985","(+/-5,059)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$75,000 to $99,999","43,627","(+/-4,543)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$100,000 to $149,999","59,761","(+/-4,983)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$150,000 to $199,999","35,368","(+/-3,140)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","$200,000 or more","75,194","(+/-4,954)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","Median household income (dollars)","92,840","(+/-3,652)"
+Socioeconomic,"Income and Benefits (In 2023 inflation-adjusted dollars)","Mean household income (dollars)","146,662","(+/-5,636)"
+Socioeconomic,"Health Insurance Coverage","Civilian noninstitutionalized population","799,769","(+/-22,154)"
+Socioeconomic,"Health Insurance Coverage","With health insurance coverage","740,776","(+/-20,660)"
+Socioeconomic,"Health Insurance Coverage","With private health insurance","581,701","(+/-17,727)"
+Socioeconomic,"Health Insurance Coverage","With public coverage","250,130","(+/-12,814)"
+Socioeconomic,"Health Insurance Coverage","No health insurance coverage","58,993","(+/-7,722)"
+Socioeconomic,"Health Insurance Coverage","Civilian noninstitutionalized population under 19 years","148,834","(+/-12,136)"
+Socioeconomic,"Health Insurance Coverage","No health insurance coverage","9,784","(+/-2,514)"
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","All families",6.2,(+/-1.2)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 18 years",10.0,(+/-2.6)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 5 years only",5.9,(+/-4.0)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Married couple families",4.0,(+/-1.1)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 18 years",5.1,(+/-2.6)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 5 years only",0.5,(+/-0.8)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Families with female householder, no spouse present",17.5,(+/-4.5)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 18 years",24.1,(+/-6.2)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","With related children of the householder under 5 years only",34.7,(+/-21.8)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","All people",9.1,(+/-1.2)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Under 18 years",11.7,(+/-3.6)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Related children of the householder under 18 years",11.6,(+/-3.6)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Related children of the householder under 5 years",8.6,(+/-4.4)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Related children of the householder 5 to 17 years",12.6,(+/-3.8)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","18 years and over",8.5,(+/-0.9)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","65 years and over",8.5,(+/-1.5)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","People in families",6.9,(+/-1.6)
+Socioeconomic,"Percentage of Families and People Whose Income in the Past 12 Months is Below the Poverty Level","Unrelated individuals 15 years and over",15.2,(+/-1.5)
+Education,"School Enrollment","Population 3 years and over enrolled in school","151,669","(+/-10,766)"
+Education,"School Enrollment","Nursery school, preschool","10,551","(+/-1,696)"
+Education,"School Enrollment",Kindergarten,"8,105","(+/-1,584)"
+Education,"School Enrollment","Elementary school (grades 1-8)","61,063","(+/-6,868)"
+Education,"School Enrollment","High school (grades 9-12)","37,360","(+/-4,547)"
+Education,"School Enrollment","College or graduate school","34,590","(+/-4,475)"
+Education,"Educational Attainment","Population 25 years and over","605,973","(+/-14,661)"
+Education,"Educational Attainment","Less than 9th grade","14,834","(+/-3,360)"
+Education,"Educational Attainment","9th to 12th grade, no diploma","17,117","(+/-2,948)"
+Education,"Educational Attainment","High school graduate (includes equivalency)","98,996","(+/-8,127)"
+Education,"Educational Attainment","Some college, no degree","109,433","(+/-6,158)"
+Education,"Educational Attainment","Associate's degree","47,932","(+/-3,888)"
+Education,"Educational Attainment","Bachelor's degree","194,101","(+/-6,750)"
+Education,"Educational Attainment","Graduate or professional degree","123,560","(+/-6,808)"
+Education,"Educational Attainment","Percent high school graduate or higher",94.7,(+/-0.8)
+Education,"Educational Attainment","Percent bachelor's degree or higher",52.4,(+/-1.5)
+
+
+"Source: 2023 American Community Survey 1-Year Estimates"
+"Estimates in the People, Workers, Housing, Socioeconomic, and Education tabs are from the American Community Survey (ACS). The ACS is an annual household survey developed by the U.S. Census Bureau to replace the long form of the decennial census program. Each year, the ACS samples about 3.5 million household addresses to produce nearly 11 billion estimates covering demographic, social, economic, and housing characteristics."
+"Except where noted, 'race' refers to people reporting only one race.  'Hispanic' refers to an ethnic category;  Hispanics may be of any race."
+"An '-' The estimate could not be computed because there were an insufficient number of sample observations. For a ratio of medians estimate, one or both of the median estimates falls in the lowest interval or highest interval of an open-ended distribution. For a 5-year median estimate, the margin of error associated with a median was larger than the median itself."
+"median- The median falls in the lowest interval of an open-ended distribution (for example '2,500-')"
+"median+ The median falls in the highest interval of an open-ended distribution (for example '250,000+')"
+"An '**' The margin of error could not be computed because there were an insufficient number of sample observations."
+"An '***' The margin of error could not be computed because the median falls in the lowest interval or highest interval of an open-ended distribution. "
+"An '*****' A margin of error is not appropriate because the corresponding estimate is controlled to an independent population or housing estimate. Effectively, the corresponding estimate has no sampling error and the margin of error may be treated as zero. "
+"An 'N' The estimate or margin of error cannot be displayed because there were an insufficient number of sample cases in the selected geographic area."
+"An '(X)' The estimate or margin of error is not applicable or not available.  "
+"If calculating a percentage, use the total population line within the section as the denominator. Do not use total population lines from other sections since these may have different universes."
+
+Topic,Subject,Title,"District 01 Estimate","District 01 Flag"
+Business,"Paid employees for pay period including March 12","Total for all sectors","471,351",G
+Business,"Paid employees for pay period including March 12","Agriculture, forestry, fishing and hunting",195,H
+Business,"Paid employees for pay period including March 12","Mining, quarrying, and oil and gas extraction",178,H
+Business,"Paid employees for pay period including March 12",Utilities,861,H
+Business,"Paid employees for pay period including March 12",Construction,"33,451",G
+Business,"Paid employees for pay period including March 12",Manufacturing,"15,480",G
+Business,"Paid employees for pay period including March 12","Wholesale trade","12,784",G
+Business,"Paid employees for pay period including March 12","Retail trade","49,492",G
+Business,"Paid employees for pay period including March 12","Transportation and warehousing","12,220",H
+Business,"Paid employees for pay period including March 12",Information,"15,823",G
+Business,"Paid employees for pay period including March 12","Finance and insurance","45,150",G
+Business,"Paid employees for pay period including March 12","Real estate and rental and leasing","17,520",G
+Business,"Paid employees for pay period including March 12","Professional, scientific, and technical services","45,960",G
+Business,"Paid employees for pay period including March 12","Management of companies and enterprises","15,910",H
+Business,"Paid employees for pay period including March 12","Administrative and support and waste management and remediation services","32,908",G
+Business,"Paid employees for pay period including March 12","Educational services","10,134",H
+Business,"Paid employees for pay period including March 12","Health care and social assistance","67,040",G
+Business,"Paid employees for pay period including March 12","Arts, entertainment, and recreation","15,409",G
+Business,"Paid employees for pay period including March 12","Accommodation and food services","61,170",G
+Business,"Paid employees for pay period including March 12","Other services (except public administration)","19,623",G
+Business,"Paid employees for pay period including March 12","Industries not classified",43,H
+Business,"Annual payroll ($1,000)","Total for all sectors","34,025,697",G
+Business,"Annual payroll ($1,000)","Agriculture, forestry, fishing and hunting","10,155",H
+Business,"Annual payroll ($1,000)","Mining, quarrying, and oil and gas extraction","14,447",H
+Business,"Annual payroll ($1,000)",Utilities,"110,185",H
+Business,"Annual payroll ($1,000)",Construction,"2,770,974",G
+Business,"Annual payroll ($1,000)",Manufacturing,"1,870,144",H
+Business,"Annual payroll ($1,000)","Wholesale trade","1,369,943",H
+Business,"Annual payroll ($1,000)","Retail trade","2,155,106",G
+Business,"Annual payroll ($1,000)","Transportation and warehousing","941,326",H
+Business,"Annual payroll ($1,000)",Information,"1,708,470",G
+Business,"Annual payroll ($1,000)","Finance and insurance","4,791,508",G
+Business,"Annual payroll ($1,000)","Real estate and rental and leasing","1,516,399",G
+Business,"Annual payroll ($1,000)","Professional, scientific, and technical services","4,663,753",G
+Business,"Annual payroll ($1,000)","Management of companies and enterprises","1,752,391",H
+Business,"Annual payroll ($1,000)","Administrative and support and waste management and remediation services","2,044,860",G
+Business,"Annual payroll ($1,000)","Educational services","533,508",G
+Business,"Annual payroll ($1,000)","Health care and social assistance","4,235,104",H
+Business,"Annual payroll ($1,000)","Arts, entertainment, and recreation","632,190",G
+Business,"Annual payroll ($1,000)","Accommodation and food services","1,972,102",G
+Business,"Annual payroll ($1,000)","Other services (except public administration)","930,765",G
+Business,"Annual payroll ($1,000)","Industries not classified","2,367",H
+Business,"Total Establishments","Total for all sectors","32,268",X
+Business,"Total Establishments","Agriculture, forestry, fishing and hunting",40,X
+Business,"Total Establishments","Mining, quarrying, and oil and gas extraction",14,X
+Business,"Total Establishments",Utilities,33,X
+Business,"Total Establishments",Construction,"2,234",X
+Business,"Total Establishments",Manufacturing,532,X
+Business,"Total Establishments","Wholesale trade","1,202",X
+Business,"Total Establishments","Retail trade","2,966",X
+Business,"Total Establishments","Transportation and warehousing",416,X
+Business,"Total Establishments",Information,581,X
+Business,"Total Establishments","Finance and insurance","2,884",X
+Business,"Total Establishments","Real estate and rental and leasing","3,406",X
+Business,"Total Establishments","Professional, scientific, and technical services","5,803",X
+Business,"Total Establishments","Management of companies and enterprises",252,X
+Business,"Total Establishments","Administrative and support and waste management and remediation services","1,779",X
+Business,"Total Establishments","Educational services",546,X
+Business,"Total Establishments","Health care and social assistance","4,390",X
+Business,"Total Establishments","Arts, entertainment, and recreation",596,X
+Business,"Total Establishments","Accommodation and food services","2,212",X
+Business,"Total Establishments","Other services (except public administration)","2,345",X
+Business,"Total Establishments","Industries not classified",37,X
+
+
+"Source: 2022 County Business Patterns for Congressional Districts"
+"1. CBP data includes the number of establishments, employment during the week of March 12, and annual payroll. CBP basic data are extracted from the Business Register (BR), a database of all known single and multi-establishment employer companies maintained and updated by the U.S. Census Bureau. Primary causes of differences between CBP employment estimates and ACS estimates: CBP does not cover the self-employed, public employment, and most agricultural employment; CBP estimates are not based on a sample survey; they represent business location as opposed to workers' residence in the district; use the week of March 12 as a reference period; and use a business source to determine industry."
+"2. Industries not classified - Industry could not be determined."
+"3. Statewide - County Business Patterns data includes employers without a fixed location within a state (or of unknown county location), these are included under a 'statewide' classification. Statewide cases are not included in any particular congressional district (though they would be included in at-large districts). This incomplete detail causes only a slight understatement of a district's total estimates."
+"4. Disclosure and Quality Indicator Flag Definitions:"
+"G Cell value changed by less than 2 percent by the application of noise"
+"H Cell value changed by at least 2 percent but less than 5 percent by the application of noise"
+"J Cell value changed by 5 percent or more by the application of noise"
+"S Cell value withheld because it did not meet publication standards"
+"N Not available or not comparable"
+"X Not applicable"
