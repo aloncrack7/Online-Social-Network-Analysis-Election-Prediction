@@ -6,6 +6,21 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+## Citation
+
+```APA
+ Ardura Carnicero, A., García Velasco, A., Lozano Arias, P., & Peris Acedo, R. Online Social Network Analysis Election Prediction  [Computer software]. https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction
+```
+
+```bibtext
+@software{Ardura_Carnicero_Online_Social_Network,
+  author = { Ardura Carnicero, Antonio and García Velasco, Alonso and Lozano Arias, Pablo and Peris Acedo, Roberto },
+  license = {GPL-3.0},
+  title = {{Online Social Network Analysis Election Prediction }},
+  url = {https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction}
+}
+```
+
 ## Code
 
 ### [CA50_dataset_cleaning.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning.py)
