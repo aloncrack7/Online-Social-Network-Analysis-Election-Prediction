@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: 'Online Social Network Analysis Election Prediction '
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Antonio
+    family-names: ' Ardura Carnicero'
+    email: aardura@hawk.iit.edu
+    affiliation: Student Illinois Institute of Technology
+  - given-names: Alonso
+    family-names: García Velasco
+    affiliation: Student Illinois Institute of Technology
+    email: agarciavelasco@hawk.iit.edu
+  - email: plozano1@hawk.iit.edu
+    given-names: Pablo
+    family-names: Lozano Arias
+    affiliation: Student Illinois Institute of Technology
+  - given-names: 'Roberto '
+    family-names: Peris Acedo
+    email: rperisacedo@hawk.iit.edu
+    affiliation: Student Illinois Institute of Technology
+repository-code: >-
+  https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction
+license: GPL-3.0
