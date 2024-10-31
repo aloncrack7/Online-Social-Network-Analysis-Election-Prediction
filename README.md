@@ -8,7 +8,20 @@
 
 ## Code
 
-- TODO
+### [DataExtractionGIS.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/DataExtractionGIS.ipynb)
+
+- District shape
+- District inside the county
+- District inside the county with millitary bases
+- District voting places
+- District voting places and census blocks
+- District voting places voronoi diagram
+- District hospitals
+- District Naloxone distribution points
+- District precints 
+- Election results extraction
+- Join of both data soruces
+- Result over maps for Presindential and House of Representatives 2020
 
 ## Bibliography
 
