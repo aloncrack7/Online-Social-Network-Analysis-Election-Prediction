@@ -8,6 +8,10 @@
 
 ## Code
 
+### [CA50_dataset_cleaning.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning.py)
+
+### [Project3.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/Project3.ipynb)
+
 ### [DataExtractionGIS.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/DataExtractionGIS.ipynb)
 
 - District shape
