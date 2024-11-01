@@ -25,6 +25,8 @@
 
 ### [CA50_dataset_cleaning.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning.py)
 
+First iteration of the clean up process (Deprecated)
+
 ### [Project3.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/Project3.ipynb)
 
 This code is used to join all the datasets together and obtain matrix correlations in order to provide a correct Exploratory Data Analysis. 
