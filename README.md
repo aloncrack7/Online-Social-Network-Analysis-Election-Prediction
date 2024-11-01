@@ -23,7 +23,7 @@
 
 ## Code
 
-### [CA50_dataset_cleaning.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning.py)
+### [CA50_dataset_cleaning_Deprecated.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning_Deprecated.py)
 
 First iteration of the clean up process (Deprecated)
 
