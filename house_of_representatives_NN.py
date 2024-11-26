@@ -18,16 +18,16 @@ relevant_features = [
 df_features = df[relevant_features]
 
 # Crear la variable objetivo para clasificación (partido ganador)
-df['winning_party'] = df.apply(
-    lambda row: 'Democrat' if row['presidential_democrat'] > row['presidential_republican'] else 'Republican', axis=1
+df['house_winning_party'] = df.apply(
+    lambda row: 'Democrat' if row['house_democrat'] > row['house_republican'] else 'Republican', axis=1
 )
 
 # Codificar la variable objetivo de clasificación como números
-df['winning_party_encoded'] = df['winning_party'].map({'Democrat': 0, 'Republican': 1})
+df['house_winning_party_encoded'] = df['house_winning_party'].map({'Democrat': 0, 'Republican': 1})
 
 # Crear la variable objetivo para regresión (porcentaje de votos demócratas)
-df['democrat_percentage'] = (
-    df['presidential_democrat'] / df['presidential_total_votes'] * 100
+df['house_democrat_percentage'] = (
+    df['house_democrat'] / df['house_total_votes'] * 100
 )
 
 # Normalizar las características de entrada
@@ -36,11 +36,11 @@ X_scaled = scaler.fit_transform(df_features)  # Normalización solo de las carac
 
 # Dividir en entrenamiento y prueba
 X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
-    X_scaled, df['winning_party_encoded'], test_size=0.2, random_state=42, stratify=df['winning_party_encoded']
+    X_scaled, df['house_winning_party_encoded'], test_size=0.2, random_state=42, stratify=df['house_winning_party_encoded']
 )
 
 X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
-    X_scaled, df['democrat_percentage'], test_size=0.2, random_state=42
+    X_scaled, df['house_democrat_percentage'], test_size=0.2, random_state=42
 )
 
 # ---------- RED NEURONAL PARA CLASIFICACIÓN (PARTIDO GANADOR) ----------
