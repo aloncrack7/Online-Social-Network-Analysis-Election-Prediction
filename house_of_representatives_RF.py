@@ -37,7 +37,7 @@ X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
 
 # ---------- MODELO DE CLASIFICACIÓN (PARTIDO GANADOR) ----------
 clf = RandomForestClassifier(random_state=42)
-clf.fit(X_scaled, df['house_winning_party_encoded'])
+clf.fit(X_train_clf, y_train_clf)
 
 y_pred_clf = clf.predict(X_test_clf)
 accuracy_clf = accuracy_score(y_test_clf, y_pred_clf)
@@ -45,7 +45,7 @@ report_clf = classification_report(y_test_clf, y_pred_clf)
 
 # ---------- MODELO DE REGRESIÓN (PORCENTAJE DE VOTOS DEMÓCRATAS) ----------
 regressor = RandomForestRegressor(random_state=42)
-regressor.fit(X_scaled, df['house_democrat_percentage'])
+regressor.fit(X_train_reg, y_train_reg)
 
 y_pred_reg = regressor.predict(X_test_reg)
 mae = mean_absolute_error(y_test_reg, y_pred_reg)

@@ -33,7 +33,7 @@ X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
 )
 
 clf = RandomForestClassifier(random_state=42)
-clf.fit(X_clf, y_clf)
+clf.fit(X_train_clf, y_train_clf)
 
 y_pred_clf = clf.predict(X_test_clf)
 accuracy_clf = accuracy_score(y_test_clf, y_pred_clf)
@@ -50,7 +50,7 @@ X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
 )
 
 regressor = RandomForestRegressor(random_state=42)
-regressor.fit(X_reg, y_reg)
+regressor.fit(X_train_reg, y_train_reg)
 
 y_pred_reg = regressor.predict(X_test_reg)
 mae = mean_absolute_error(y_test_reg, y_pred_reg)
