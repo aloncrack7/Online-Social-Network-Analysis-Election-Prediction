@@ -23,7 +23,7 @@ relevant_features = [
 df_features = df[relevant_features]
 
 df['turn_out'] = (
-    df['house_total_votes'] / df['18 years and over'] * 100
+    df['house_total_votes']
 )
 
 scaler = StandardScaler()
@@ -65,4 +65,4 @@ print("Reporte de turn-out:")
 print("\nResultados del modelo de regresión (turnout):")
 print(f"Error absoluto medio (MAE): {mae:.2f}")
 print(f"Coeficiente de determinación (R²): {r2:.2f}")
-print(f"Predicción para la muestra personalizada: Turnout -> {prediction_percentage[0]:.2f}%")
+print(f"Predicción para la muestra personalizada: Turnout -> {prediction_percentage[0]/648683*100:.2f}%")
