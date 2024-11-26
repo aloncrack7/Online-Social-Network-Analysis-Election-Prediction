@@ -6,9 +6,45 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
+## Citation
+
+```APA
+ Ardura Carnicero, A., García Velasco, A., Lozano Arias, P., & Peris Acedo, R. Online Social Network Analysis Election Prediction  [Computer software]. https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction
+```
+
+```bibtext
+@software{Ardura_Carnicero_Online_Social_Network,
+  author = { Ardura Carnicero, Antonio and García Velasco, Alonso and Lozano Arias, Pablo and Peris Acedo, Roberto },
+  license = {GPL-3.0},
+  title = {{Online Social Network Analysis Election Prediction }},
+  url = {https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction}
+}
+```
+
 ## Code
 
-- TODO
+### [CA50_dataset_cleaning_Deprecated.py](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/CA50_dataset_cleaning_Deprecated.py)
+
+First iteration of the clean up process (Deprecated)
+
+### [Project3.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/Project3.ipynb)
+
+This code is used to join all the datasets together and obtain matrix correlations in order to provide a correct Exploratory Data Analysis. 
+
+### [DataExtractionGIS.ipynb](https://github.com/aloncrack7/Online-Social-Network-Analysis-Election-Prediction/blob/main/DataExtractionGIS.ipynb)
+
+- District shape
+- District inside the county
+- District inside the county with millitary bases
+- District voting places
+- District voting places and census blocks
+- District voting places voronoi diagram
+- District hospitals
+- District Naloxone distribution points
+- District precints 
+- Election results extraction
+- Join of both data soruces
+- Result over maps for Presindential and House of Representatives 2020
 
 ## Bibliography
 
