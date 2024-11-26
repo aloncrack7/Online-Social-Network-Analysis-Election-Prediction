@@ -1,11 +1,13 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+from sklearn.ensemble import GradientBoostingClassifier, GradientBoostingRegressor
 from sklearn.metrics import classification_report, accuracy_score, mean_absolute_error, r2_score
 
-file_path = 'final_df.csv' 
+# Cargar el dataset
+file_path = 'final_df.csv'
 df = pd.read_csv(file_path)
 
+# Seleccionar únicamente las columnas relevantes
 relevant_features = [
     'Native People', 'Unemployment Rate', 'Mean household income', 
     'Families income below poverty', 'Graduate or professional degree', 
@@ -17,39 +19,32 @@ df_features = df[relevant_features]
 df['winning_party'] = df.apply(
     lambda row: 'Democrat' if row['presidential_democrat'] > row['presidential_republican'] else 'Republican', axis=1
 )
+df['winning_party_encoded'] = df['winning_party'].map({'Democrat': 0, 'Republican': 1})
 
 # Crear la variable objetivo para regresión (porcentaje de votos demócratas)
 df['democrat_percentage'] = (
     df['presidential_democrat'] / df['presidential_total_votes'] * 100
 )
 
-# ---------- MODELO DE CLASIFICACIÓN (PARTIDO GANADOR) ----------
-
-X_clf = df_features
-y_clf = df['winning_party']
-
+# Dividir en entrenamiento y prueba
 X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
-    X_clf, y_clf, test_size=0.2, random_state=42, stratify=y_clf
+    df_features, df['winning_party_encoded'], test_size=0.2, random_state=42, stratify=df['winning_party_encoded']
 )
 
-clf = RandomForestClassifier(random_state=42)
+X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
+    df_features, df['democrat_percentage'], test_size=0.2, random_state=42
+)
+
+# ---------- MODELO DE CLASIFICACIÓN (PARTIDO GANADOR) ----------
+clf = GradientBoostingClassifier(random_state=42)
 clf.fit(X_train_clf, y_train_clf)
 
 y_pred_clf = clf.predict(X_test_clf)
 accuracy_clf = accuracy_score(y_test_clf, y_pred_clf)
 report_clf = classification_report(y_test_clf, y_pred_clf)
 
-
-
 # ---------- MODELO DE REGRESIÓN (PORCENTAJE DE VOTOS DEMÓCRATAS) ----------
-X_reg = df_features
-y_reg = df['democrat_percentage']
-
-X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
-    X_reg, y_reg, test_size=0.2, random_state=42
-)
-
-regressor = RandomForestRegressor(random_state=42)
+regressor = GradientBoostingRegressor(random_state=42)
 regressor.fit(X_train_reg, y_train_reg)
 
 y_pred_reg = regressor.predict(X_test_reg)
@@ -57,11 +52,10 @@ mae = mean_absolute_error(y_test_reg, y_pred_reg)
 r2 = r2_score(y_test_reg, y_pred_reg)
 
 # ---------- PREDICCIÓN PARA UNA MUESTRA ESPECÍFICA ----------
-# Están puestos los valores de CA50 del 2023
 sample_to_predict = pd.DataFrame([{
     'Native People': 607938,
     'Unemployment Rate': 4.3,
-    'Mean household income': 163873, 
+    'Mean household income': 163873,
     'Families income below poverty': 5.2,
     'Graduate or professional degree': 149338,
     'Hispanic': 189438,
@@ -69,8 +63,10 @@ sample_to_predict = pd.DataFrame([{
     'Female': 389530
 }])
 
+# Predicción del partido ganador
 prediction_winner = clf.predict(sample_to_predict)
 
+# Predicción del porcentaje de votos demócratas
 prediction_percentage = regressor.predict(sample_to_predict)
 
 # ---------- RESULTADOS ----------
@@ -78,7 +74,7 @@ print("Resultados del modelo de clasificación (partido ganador):")
 print(f"Precisión del modelo: {accuracy_clf:.2f}")
 print("Reporte de clasificación:")
 print(report_clf)
-print(f"Predicción para la muestra personalizada: Partido ganador -> {prediction_winner[0]}")
+print(f"Predicción para la muestra personalizada: Partido ganador -> {'Democrat' if prediction_winner[0] == 0 else 'Republican'}")
 
 print("\nResultados del modelo de regresión (porcentaje de votos demócratas):")
 print(f"Error absoluto medio (MAE): {mae:.2f}")

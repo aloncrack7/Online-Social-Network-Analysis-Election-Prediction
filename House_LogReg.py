@@ -1,6 +1,6 @@
 import pandas as pd
 from sklearn.model_selection import train_test_split
-from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
+from sklearn.linear_model import LogisticRegression, LinearRegression
 from sklearn.metrics import classification_report, accuracy_score, mean_absolute_error, r2_score
 
 file_path = 'final_df.csv' 
@@ -15,12 +15,12 @@ df_features = df[relevant_features]
 
 # Crear la variable objetivo para clasificación (partido ganador)
 df['winning_party'] = df.apply(
-    lambda row: 'Democrat' if row['presidential_democrat'] > row['presidential_republican'] else 'Republican', axis=1
+    lambda row: 'Democrat' if row['house_democrat'] > row['house_republican'] else 'Republican', axis=1
 )
 
 # Crear la variable objetivo para regresión (porcentaje de votos demócratas)
 df['democrat_percentage'] = (
-    df['presidential_democrat'] / df['presidential_total_votes'] * 100
+    df['house_democrat'] / df['house_total_votes'] * 100
 )
 
 # ---------- MODELO DE CLASIFICACIÓN (PARTIDO GANADOR) ----------
@@ -32,14 +32,12 @@ X_train_clf, X_test_clf, y_train_clf, y_test_clf = train_test_split(
     X_clf, y_clf, test_size=0.2, random_state=42, stratify=y_clf
 )
 
-clf = RandomForestClassifier(random_state=42)
+clf = LogisticRegression(random_state=42, max_iter=1000)
 clf.fit(X_train_clf, y_train_clf)
 
 y_pred_clf = clf.predict(X_test_clf)
 accuracy_clf = accuracy_score(y_test_clf, y_pred_clf)
 report_clf = classification_report(y_test_clf, y_pred_clf)
-
-
 
 # ---------- MODELO DE REGRESIÓN (PORCENTAJE DE VOTOS DEMÓCRATAS) ----------
 X_reg = df_features
@@ -49,7 +47,7 @@ X_train_reg, X_test_reg, y_train_reg, y_test_reg = train_test_split(
     X_reg, y_reg, test_size=0.2, random_state=42
 )
 
-regressor = RandomForestRegressor(random_state=42)
+regressor = LinearRegression()
 regressor.fit(X_train_reg, y_train_reg)
 
 y_pred_reg = regressor.predict(X_test_reg)
